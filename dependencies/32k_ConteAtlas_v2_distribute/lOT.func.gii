@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GIFTI xmlns:xsi="true"
+       xsi:noNamespaceSchemaLocation="true"
+       Version="1"
+       NumberOfDataArrays="1">
+   <MetaData>
+      <MD>
+         <Name><![CDATA[AnatomicalStructurePrimary]]></Name>
+         <Value><![CDATA[CortexLeft]]></Value>
+      </MD>
+      <MD>
+         <Name><![CDATA[UniqueID]]></Name>
+         <Value><![CDATA[{3868c105-07dc-4587-ac95-21bf768e44b4}]]></Value>
+      </MD>
+   </MetaData>
+   <LabelTable>
+      <Label Key="0" Red="1" Green="1" Blue="1" Alpha="0"><![CDATA[???]]></Label>
+   </LabelTable>
+<DataArray Intent="NIFTI_INTENT_NORMAL"
+           DataType="NIFTI_TYPE_FLOAT32"
+           ArrayIndexingOrder="RowMajorOrder"
+           Dimensionality="1"
+           Dim0="32492"
+           Encoding="GZipBase64Binary"
+           Endian="LittleEndian"
+           ExternalFileName=""
+           ExternalFileOffset="0">
+   <MetaData>
+      <MD>
+         <Name><![CDATA[Name]]></Name>
+         <Value><![CDATA[lOT]]></Value>
+      </MD>
+      <MD>
+         <Name><![CDATA[PaletteColorMapping]]></Name>
+         <Value><![CDATA[<PaletteColorMapping Version="1">
+   <ScaleMode>MODE_AUTO_SCALE</ScaleMode>
+   <AutoScalePercentageValues>98.000000 2.000000 2.000000 98.000000</AutoScalePercentageValues>
+   <UserScaleValues>-100.000000 0.000000 0.000000 100.000000</UserScaleValues>
+   <PaletteName>PSYCH</PaletteName>
+   <InterpolatePalette>false</InterpolatePalette>
+   <DisplayPositiveData>true</DisplayPositiveData>
+   <DisplayZeroData>false</DisplayZeroData>
+   <DisplayNegativeData>true</DisplayNegativeData>
+   <ThresholdTest>THRESHOLD_TEST_SHOW_OUTSIDE</ThresholdTest>
+   <ThresholdType>THRESHOLD_TYPE_OFF</ThresholdType>
+   <ThresholdFailureInGreen>false</ThresholdFailureInGreen>
+   <ThresholdMappedValues>-1.000000 1.000000</ThresholdMappedValues>
+   <ThresholdMappedAvgAreaValues>-1.000000 1.000000</ThresholdMappedAvgAreaValues>
+   <ThresholdDataName></ThresholdDataName>
+</PaletteColorMapping>
+]]></Value>
+      </MD>
+      <MD>
+         <Name><![CDATA[UniqueID]]></Name>
+         <Value><![CDATA[{57ebac64-8d16-43f6-8012-444f3c2c665f}]]></Value>
+      </MD>
+   </MetaData>
+   <Data>eJzt3UGqwgAMRVF31q116U6dCEJt8pKeA84+5D4o4p/o6/WL8/jpzwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAuOg86l/bPWVnhc3Ppl25G+7c0216/6en70gyvf/T5HYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPrc9ZsdKb8J0L1p+7a7bNzUtavCpi0VezbsqKR/x/MzsXtas9b/t07oTG9M7ktt0zSrJ6UloaNC6v0qCXerbwIAAAAAAAAAAAAAAAAAAAAAAAAAPFXHd0Iyz5XvkL7y2mbrtm27tj2Hm/Zs2TJ9x/T368n9U9sndk9rntI75TPfhM6pjSlS2xK70pqSelJaEjq6GzrvJ91+ws0q3e91AOz07f+4ytfWbRt3bdu0Zc+dNmyo2jF9w9T+CrpnNk/prfKEzvTG5L7UtsSutKaknpSWhI7uhs77Xbc33+26V3ULAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgDnO4w31UOK5</Data>
+</DataArray>
+</GIFTI>

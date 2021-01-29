@@ -1,0 +1,1339 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FociFile Version="2">
+   <MetaData>
+      <MD>
+         <Name><![CDATA[Caret-Version]]></Name>
+         <Value><![CDATA[5.64]]></Value>
+      </MD>
+      <MD>
+         <Name><![CDATA[Date]]></Name>
+         <Value><![CDATA[2012-05-14T16:03:20]]></Value>
+      </MD>
+      <MD>
+         <Name><![CDATA[UniqueID]]></Name>
+         <Value><![CDATA[{a8ae83bb-6e38-4580-9da3-d281dca27657}]]></Value>
+      </MD>
+      <MD>
+         <Name><![CDATA[UserName]]></Name>
+         <Value><![CDATA[vanessen]]></Value>
+      </MD>
+      <MD>
+         <Name><![CDATA[comment]]></Name>
+         <Value><![CDATA[DVE (14May2012): Extracted from Matt Glasser's AllZillesFoci.fociproj in
+/Volumes/vip6/Mount/myelin/brainmappers/OldFiles/MyelinMapping_Project/CommonFiles2/FS_LR
+Split into left, right hemispheres
+Deleted duplicate copies of foci
+Renamed foci, added study-specific class names]]></Value>
+      </MD>
+   </MetaData>
+   <FociClassColorTable>
+      <LabelTable>
+         <Label Key="0" Red="1" Green="1" Blue="1" Alpha="0"><![CDATA[???]]></Label>
+         <Label Key="1" Red="0" Green="0" Blue="0" Alpha="0"><![CDATA[ESM05]]></Label>
+      </LabelTable>
+   </FociClassColorTable>
+   <FociNameColorTable>
+      <LabelTable>
+         <Label Key="0" Red="1" Green="1" Blue="1" Alpha="0"><![CDATA[???]]></Label>
+         <Label Key="1" Red="1" Green="0.501961" Blue="0" Alpha="1"><![CDATA[AIPS]]></Label>
+         <Label Key="2" Red="0.219608" Green="0.301961" Blue="0.058824" Alpha="0"><![CDATA[Broca]]></Label>
+         <Label Key="3" Red="0" Green="0.501961" Blue="0" Alpha="1"><![CDATA[IPC]]></Label>
+         <Label Key="4" Red="0" Green="1" Blue="1" Alpha="1"><![CDATA[Insula]]></Label>
+         <Label Key="5" Red="1" Green="0" Blue="0" Alpha="1"><![CDATA[PAC]]></Label>
+         <Label Key="6" Red="0" Green="0.666667" Blue="0.666667" Alpha="0"><![CDATA[PMC]]></Label>
+         <Label Key="7" Red="0" Green="0.709804" Blue="0" Alpha="0"><![CDATA[PSC]]></Label>
+         <Label Key="8" Red="0" Green="0" Blue="1" Alpha="1"><![CDATA[SII]]></Label>
+         <Label Key="9" Red="0.709804" Green="0.101961" Blue="0" Alpha="1"><![CDATA[SPL]]></Label>
+         <Label Key="10" Red="1" Green="0.188235" Blue="1" Alpha="1"><![CDATA[Wernicke]]></Label>
+         <Label Key="11" Red="0.709804" Green="0.301961" Blue="0.709804" Alpha="0"><![CDATA[hOC]]></Label>
+         <Label Key="12" Red="0" Green="0.301961" Blue="0.070588" Alpha="0"><![CDATA[premotor]]></Label>
+      </LabelTable>
+   </FociNameColorTable>
+   <Focus Index="0">
+      <Area><![CDATA[]]></Area>
+      <ClassName><![CDATA[ESM05]]></ClassName>
+      <Comment><![CDATA[]]></Comment>
+      <Extent>0</Extent>
+      <Geography><![CDATA[]]></Geography>
+      <Name><![CDATA[AIPS_IP1]]></Name>
+      <RegionOfInterest><![CDATA[]]></RegionOfInterest>
+      <SearchXYZ>-36.299999 -53.099995 36.400002</SearchXYZ>
+      <Statistic><![CDATA[]]></Statistic>
+      <SumsIDNumber><![CDATA[-1]]></SumsIDNumber>
+      <SumsRepeatNumber><![CDATA[-1]]></SumsRepeatNumber>
+      <SumsParentFocusBaseID><![CDATA[-1]]></SumsParentFocusBaseID>
+      <SumsVersionNumber><![CDATA[-1]]></SumsVersionNumber>
+      <SumsMSLID><![CDATA[-1]]></SumsMSLID>
+      <AttributeID><![CDATA[-1]]></AttributeID>
+      <StudyMetaDataLinkSet>
+      </StudyMetaDataLinkSet>
+      <SurfaceProjectedItem>
+         <Structure>CORTEX_LEFT</Structure>
+         <StereotaxicXYZ>-36.299999 -53.099998 36.400002</StereotaxicXYZ>
+         <VolumeXYZ>-36.299999 -53.099998 36.400002</VolumeXYZ>
+         <ProjectionBarycentric>
+            <TriangleAreas>0.725029 0.213013 0.061957</TriangleAreas>
+            <TriangleNodes>14124 14081 14123</TriangleNodes>
+            <SignedDistanceAboveSurface>4.59163e-41</SignedDistanceAboveSurface>
+         </ProjectionBarycentric>
+      </SurfaceProjectedItem>
+   </Focus>
+   <Focus Index="1">
+      <Area><![CDATA[]]></Area>
+      <ClassName><![CDATA[ESM05]]></ClassName>
+      <Comment><![CDATA[]]></Comment>
+      <Extent>0</Extent>
+      <Geography><![CDATA[]]></Geography>
+      <Name><![CDATA[AIPS_IP2]]></Name>
+      <RegionOfInterest><![CDATA[]]></RegionOfInterest>
+      <SearchXYZ>-45.695843 -44.287529 41.881546</SearchXYZ>
+      <Statistic><![CDATA[]]></Statistic>
+      <SumsIDNumber><![CDATA[-1]]></SumsIDNumber>
+      <SumsRepeatNumber><![CDATA[-1]]></SumsRepeatNumber>
+      <SumsParentFocusBaseID><![CDATA[-1]]></SumsParentFocusBaseID>
+      <SumsVersionNumber><![CDATA[-1]]></SumsVersionNumber>
+      <SumsMSLID><![CDATA[-1]]></SumsMSLID>
+      <AttributeID><![CDATA[-1]]></AttributeID>
+      <StudyMetaDataLinkSet>
+      </StudyMetaDataLinkSet>
+      <SurfaceProjectedItem>
+         <Structure>CORTEX_LEFT</Structure>
+         <StereotaxicXYZ>-45.299999 -44.200001 41.500000</StereotaxicXYZ>
+         <VolumeXYZ>-45.299999 -44.200001 41.500000</VolumeXYZ>
+         <VanEssenProjection>
+            <DR>0.291791</DR>
+            <TriAnatomical>-43.135887 -43.598042 43.428730 -42.936119 -44.960308 43.025833 -43.684898 -44.079067 43.847984 -42.936119 -44.960308 43.025833 -43.457535 -45.464317 43.527607 -43.684898 -44.079067 43.847984</TriAnatomical>
+            <ThetaR>0</ThetaR>
+            <PhiR>0.0970427</PhiR>
+            <TriVertices>6994 6942 6995 6942 6943 6995</TriVertices>
+            <Vertex>6995 6942</Vertex>
+            <VertexAnatomical>-43.684898 -44.079067 43.847984 -42.936119 -44.960308 43.025833</VertexAnatomical>
+            <PosAnatomical>-45.480999 -44.381001 41.319000</PosAnatomical>
+            <FracRI>0.496923</FracRI>
+            <FracRJ>0.503077</FracRJ>
+         </VanEssenProjection>
+      </SurfaceProjectedItem>
+   </Focus>
+   <Focus Index="2">
+      <Area><![CDATA[]]></Area>
+      <ClassName><![CDATA[ESM05]]></ClassName>
+      <Comment><![CDATA[]]></Comment>
+      <Extent>0</Extent>
+      <Geography><![CDATA[]]></Geography>
+      <Name><![CDATA[AIPS_IP3]]></Name>
+      <RegionOfInterest><![CDATA[]]></RegionOfInterest>
+      <SearchXYZ>-31.099998 -55.599998 47.799995</SearchXYZ>
+      <Statistic><![CDATA[]]></Statistic>
+      <SumsIDNumber><![CDATA[-1]]></SumsIDNumber>
+      <SumsRepeatNumber><![CDATA[-1]]></SumsRepeatNumber>
+      <SumsParentFocusBaseID><![CDATA[-1]]></SumsParentFocusBaseID>
+      <SumsVersionNumber><![CDATA[-1]]></SumsVersionNumber>
+      <SumsMSLID><![CDATA[-1]]></SumsMSLID>
+      <AttributeID><![CDATA[-1]]></AttributeID>
+      <StudyMetaDataLinkSet>
+      </StudyMetaDataLinkSet>
+      <SurfaceProjectedItem>
+         <Structure>CORTEX_LEFT</Structure>
+         <StereotaxicXYZ>-31.100000 -55.599998 47.799999</StereotaxicXYZ>
+         <VolumeXYZ>-31.100000 -55.599998 47.799999</VolumeXYZ>
+         <ProjectionBarycentric>
+            <TriangleAreas>0.208750 0.198290 0.592960</TriangleAreas>
+            <TriangleNodes>14544 14513 14543</TriangleNodes>
+            <SignedDistanceAboveSurface>4.59163e-41</SignedDistanceAboveSurface>
+         </ProjectionBarycentric>
+      </SurfaceProjectedItem>
+   </Focus>
+   <Focus Index="3">
+      <Area><![CDATA[]]></Area>
+      <ClassName><![CDATA[ESM05]]></ClassName>
+      <Comment><![CDATA[]]></Comment>
+      <Extent>0</Extent>
+      <Geography><![CDATA[]]></Geography>
+      <Name><![CDATA[Broca_44]]></Name>
+      <RegionOfInterest><![CDATA[]]></RegionOfInterest>
+      <SearchXYZ>-51.799866 11.999966 13.300135</SearchXYZ>
+      <Statistic><![CDATA[]]></Statistic>
+      <SumsIDNumber><![CDATA[-1]]></SumsIDNumber>
+      <SumsRepeatNumber><![CDATA[-1]]></SumsRepeatNumber>
+      <SumsParentFocusBaseID><![CDATA[-1]]></SumsParentFocusBaseID>
+      <SumsVersionNumber><![CDATA[-1]]></SumsVersionNumber>
+      <SumsMSLID><![CDATA[-1]]></SumsMSLID>
+      <AttributeID><![CDATA[-1]]></AttributeID>
+      <StudyMetaDataLinkSet>
+      </StudyMetaDataLinkSet>
+      <SurfaceProjectedItem>
+         <Structure>CORTEX_LEFT</Structure>
+         <StereotaxicXYZ>-51.799999 12.000000 13.300000</StereotaxicXYZ>
+         <VolumeXYZ>-51.799999 12.000000 13.300000</VolumeXYZ>
+         <ProjectionBarycentric>
+            <TriangleAreas>0.010410 0.704416 0.285174</TriangleAreas>
+            <TriangleNodes>18855 18812 18811</TriangleNodes>
+            <SignedDistanceAboveSurface>4.59163e-41</SignedDistanceAboveSurface>
+         </ProjectionBarycentric>
+      </SurfaceProjectedItem>
+   </Focus>
+   <Focus Index="4">
+      <Area><![CDATA[]]></Area>
+      <ClassName><![CDATA[ESM05]]></ClassName>
+      <Comment><![CDATA[]]></Comment>
+      <Extent>0</Extent>
+      <Geography><![CDATA[]]></Geography>
+      <Name><![CDATA[Broca_45]]></Name>
+      <RegionOfInterest><![CDATA[]]></RegionOfInterest>
+      <SearchXYZ>-49.100002 27.000000 4.320000</SearchXYZ>
+      <Statistic><![CDATA[]]></Statistic>
+      <SumsIDNumber><![CDATA[-1]]></SumsIDNumber>
+      <SumsRepeatNumber><![CDATA[-1]]></SumsRepeatNumber>
+      <SumsParentFocusBaseID><![CDATA[-1]]></SumsParentFocusBaseID>
+      <SumsVersionNumber><![CDATA[-1]]></SumsVersionNumber>
+      <SumsMSLID><![CDATA[-1]]></SumsMSLID>
+      <AttributeID><![CDATA[-1]]></AttributeID>
+      <StudyMetaDataLinkSet>
+      </StudyMetaDataLinkSet>
+      <SurfaceProjectedItem>
+         <Structure>CORTEX_LEFT</Structure>
+         <StereotaxicXYZ>-49.099998 27.000000 4.320000</StereotaxicXYZ>
+         <VolumeXYZ>-49.099998 27.000000 4.320000</VolumeXYZ>
+         <ProjectionBarycentric>
+            <TriangleAreas>0.189050 0.628738 0.182212</TriangleAreas>
+            <TriangleNodes>11556 11537 11536</TriangleNodes>
+            <SignedDistanceAboveSurface>4.59163e-41</SignedDistanceAboveSurface>
+         </ProjectionBarycentric>
+      </SurfaceProjectedItem>
+   </Focus>
+   <Focus Index="5">
+      <Area><![CDATA[]]></Area>
+      <ClassName><![CDATA[ESM05]]></ClassName>
+      <Comment><![CDATA[]]></Comment>
+      <Extent>0</Extent>
+      <Geography><![CDATA[]]></Geography>
+      <Name><![CDATA[hOC1]]></Name>
+      <RegionOfInterest><![CDATA[]]></RegionOfInterest>
+      <SearchXYZ>-14.400000 -81.900002 1.500000</SearchXYZ>
+      <Statistic><![CDATA[]]></Statistic>
+      <SumsIDNumber><![CDATA[-1]]></SumsIDNumber>
+      <SumsRepeatNumber><![CDATA[-1]]></SumsRepeatNumber>
+      <SumsParentFocusBaseID><![CDATA[-1]]></SumsParentFocusBaseID>
+      <SumsVersionNumber><![CDATA[-1]]></SumsVersionNumber>
+      <SumsMSLID><![CDATA[-1]]></SumsMSLID>
+      <AttributeID><![CDATA[-1]]></AttributeID>
+      <StudyMetaDataLinkSet>
+      </StudyMetaDataLinkSet>
+      <SurfaceProjectedItem>
+         <Structure>CORTEX_LEFT</Structure>
+         <StereotaxicXYZ>-14.400000 -81.900002 1.500000</StereotaxicXYZ>
+         <VolumeXYZ>-14.400000 -81.900002 1.500000</VolumeXYZ>
+         <VanEssenProjection>
+            <DR>1.83538</DR>
+            <TriAnatomical>-9.839699 -81.631233 2.620966 -10.901432 -82.714630 2.729929 -11.292539 -81.625435 3.779147 -11.292539 -81.625435 3.779147 -10.901432 -82.714630 2.729929 -11.835408 -82.698250 4.565145</TriAnatomical>
+            <ThetaR>0</ThetaR>
+            <PhiR>0.54902</PhiR>
+            <TriVertices>25302 25303 25346 25346 25303 25347</TriVertices>
+            <Vertex>25346 25303</Vertex>
+            <VertexAnatomical>-11.292539 -81.625435 3.779147 -10.901432 -82.714630 2.729929</VertexAnatomical>
+            <PosAnatomical>-14.227679 -81.727684 1.672320</PosAnatomical>
+            <FracRI>0.48109</FracRI>
+            <FracRJ>0.51891</FracRJ>
+         </VanEssenProjection>
+      </SurfaceProjectedItem>
+   </Focus>
+   <Focus Index="6">
+      <Area><![CDATA[]]></Area>
+      <ClassName><![CDATA[ESM05]]></ClassName>
+      <Comment><![CDATA[]]></Comment>
+      <Extent>0</Extent>
+      <Geography><![CDATA[]]></Geography>
+      <Name><![CDATA[hOC2]]></Name>
+      <RegionOfInterest><![CDATA[]]></RegionOfInterest>
+      <SearchXYZ>-14.200000 -82.199989 2.720000</SearchXYZ>
+      <Statistic><![CDATA[]]></Statistic>
+      <SumsIDNumber><![CDATA[-1]]></SumsIDNumber>
+      <SumsRepeatNumber><![CDATA[-1]]></SumsRepeatNumber>
+      <SumsParentFocusBaseID><![CDATA[-1]]></SumsParentFocusBaseID>
+      <SumsVersionNumber><![CDATA[-1]]></SumsVersionNumber>
+      <SumsMSLID><![CDATA[-1]]></SumsMSLID>
+      <AttributeID><![CDATA[-1]]></AttributeID>
+      <StudyMetaDataLinkSet>
+      </StudyMetaDataLinkSet>
+      <SurfaceProjectedItem>
+         <Structure>CORTEX_LEFT</Structure>
+         <StereotaxicXYZ>-14.200000 -82.199997 2.720000</StereotaxicXYZ>
+         <VolumeXYZ>-14.200000 -82.199997 2.720000</VolumeXYZ>
+         <ProjectionBarycentric>
+            <TriangleAreas>0.646755 0.211014 0.142232</TriangleAreas>
+            <TriangleNodes>25347 25303 25346</TriangleNodes>
+            <SignedDistanceAboveSurface>4.59163e-41</SignedDistanceAboveSurface>
+         </ProjectionBarycentric>
+      </SurfaceProjectedItem>
+   </Focus>
+   <Focus Index="7">
+      <Area><![CDATA[]]></Area>
+      <ClassName><![CDATA[ESM05]]></ClassName>
+      <Comment><![CDATA[]]></Comment>
+      <Extent>0</Extent>
+      <Geography><![CDATA[]]></Geography>
+      <Name><![CDATA[hOC3v]]></Name>
+      <RegionOfInterest><![CDATA[]]></RegionOfInterest>
+      <SearchXYZ>-23.500000 -84.899994 -9.899999</SearchXYZ>
+      <Statistic><![CDATA[]]></Statistic>
+      <SumsIDNumber><![CDATA[-1]]></SumsIDNumber>
+      <SumsRepeatNumber><![CDATA[-1]]></SumsRepeatNumber>
+      <SumsParentFocusBaseID><![CDATA[-1]]></SumsParentFocusBaseID>
+      <SumsVersionNumber><![CDATA[-1]]></SumsVersionNumber>
+      <SumsMSLID><![CDATA[-1]]></SumsMSLID>
+      <AttributeID><![CDATA[-1]]></AttributeID>
+      <StudyMetaDataLinkSet>
+      </StudyMetaDataLinkSet>
+      <SurfaceProjectedItem>
+         <Structure>CORTEX_LEFT</Structure>
+         <StereotaxicXYZ>-23.500000 -84.900002 -9.900000</StereotaxicXYZ>
+         <VolumeXYZ>-23.500000 -84.900002 -9.900000</VolumeXYZ>
+         <VanEssenProjection>
+            <DR>0.425812</DR>
+            <TriAnatomical>-22.054888 -84.638008 -11.715395 -21.791782 -85.722656 -11.474002 -21.055452 -86.008163 -10.485388 -22.054888 -84.638008 -11.715395 -21.055452 -86.008163 -10.485388 -21.277737 -84.970840 -11.071400</TriAnatomical>
+            <ThetaR>0</ThetaR>
+            <PhiR>0.550022</PhiR>
+            <TriVertices>24287 24257 24288 24287 24288 24317</TriVertices>
+            <Vertex>24288 24287</Vertex>
+            <VertexAnatomical>-21.055452 -86.008163 -10.485388 -22.054888 -84.638008 -11.715395</VertexAnatomical>
+            <PosAnatomical>-23.439644 -84.839645 -9.839643</PosAnatomical>
+            <FracRI>0.726714</FracRI>
+            <FracRJ>0.273286</FracRJ>
+         </VanEssenProjection>
+      </SurfaceProjectedItem>
+   </Focus>
+   <Focus Index="8">
+      <Area><![CDATA[]]></Area>
+      <ClassName><![CDATA[ESM05]]></ClassName>
+      <Comment><![CDATA[]]></Comment>
+      <Extent>0</Extent>
+      <Geography><![CDATA[]]></Geography>
+      <Name><![CDATA[hOC4]]></Name>
+      <RegionOfInterest><![CDATA[]]></RegionOfInterest>
+      <SearchXYZ>-32.400005 -81.400009 -11.600002</SearchXYZ>
+      <Statistic><![CDATA[]]></Statistic>
+      <SumsIDNumber><![CDATA[-1]]></SumsIDNumber>
+      <SumsRepeatNumber><![CDATA[-1]]></SumsRepeatNumber>
+      <SumsParentFocusBaseID><![CDATA[-1]]></SumsParentFocusBaseID>
+      <SumsVersionNumber><![CDATA[-1]]></SumsVersionNumber>
+      <SumsMSLID><![CDATA[-1]]></SumsMSLID>
+      <AttributeID><![CDATA[-1]]></AttributeID>
+      <StudyMetaDataLinkSet>
+      </StudyMetaDataLinkSet>
+      <SurfaceProjectedItem>
+         <Structure>CORTEX_LEFT</Structure>
+         <StereotaxicXYZ>-32.400002 -81.400002 -11.600000</StereotaxicXYZ>
+         <VolumeXYZ>-32.400002 -81.400002 -11.600000</VolumeXYZ>
+         <VanEssenProjection>
+            <DR>0.274992</DR>
+            <TriAnatomical>-32.277443 -80.084915 -12.465876 -32.232777 -81.073265 -12.432888 -30.822521 -81.498924 -11.932851 -32.232777 -81.073265 -12.432888 -30.721075 -82.392387 -12.305553 -30.822521 -81.498924 -11.932851</TriAnatomical>
+            <ThetaR>0</ThetaR>
+            <PhiR>0.435218</PhiR>
+            <TriVertices>24187 24154 24188 24154 24155 24188</TriVertices>
+            <Vertex>24188 24154</Vertex>
+            <VertexAnatomical>-30.822521 -81.498924 -11.932851 -32.232777 -81.073265 -12.432888</VertexAnatomical>
+            <PosAnatomical>-32.384071 -81.384071 -11.584070</PosAnatomical>
+            <FracRI>0.858111</FracRI>
+            <FracRJ>0.141889</FracRJ>
+         </VanEssenProjection>
+      </SurfaceProjectedItem>
+   </Focus>
+   <Focus Index="9">
+      <Area><![CDATA[]]></Area>
+      <ClassName><![CDATA[ESM05]]></ClassName>
+      <Comment><![CDATA[]]></Comment>
+      <Extent>0</Extent>
+      <Geography><![CDATA[]]></Geography>
+      <Name><![CDATA[hOC5]]></Name>
+      <RegionOfInterest><![CDATA[]]></RegionOfInterest>
+      <SearchXYZ>-50.400002 -69.699997 3.950001</SearchXYZ>
+      <Statistic><![CDATA[]]></Statistic>
+      <SumsIDNumber><![CDATA[-1]]></SumsIDNumber>
+      <SumsRepeatNumber><![CDATA[-1]]></SumsRepeatNumber>
+      <SumsParentFocusBaseID><![CDATA[-1]]></SumsParentFocusBaseID>
+      <SumsVersionNumber><![CDATA[-1]]></SumsVersionNumber>
+      <SumsMSLID><![CDATA[-1]]></SumsMSLID>
+      <AttributeID><![CDATA[-1]]></AttributeID>
+      <StudyMetaDataLinkSet>
+      </StudyMetaDataLinkSet>
+      <SurfaceProjectedItem>
+         <Structure>CORTEX_LEFT</Structure>
+         <StereotaxicXYZ>-50.400002 -69.699997 3.950000</StereotaxicXYZ>
+         <VolumeXYZ>-50.400002 -69.699997 3.950000</VolumeXYZ>
+         <VanEssenProjection>
+            <DR>0.963155</DR>
+            <TriAnatomical>-48.558903 -64.770981 0.632674 -50.004410 -64.611588 0.051890 -49.347149 -64.280533 0.788301 -50.004410 -64.611588 0.051890 -48.558903 -64.770981 0.632674 -49.266159 -64.951317 -0.221650</TriAnatomical>
+            <ThetaR>0</ThetaR>
+            <PhiR>0.27861</PhiR>
+            <TriVertices>15034 15035 15090 15035 15034 23208</TriVertices>
+            <Vertex>15035 15034</Vertex>
+            <VertexAnatomical>-50.004410 -64.611588 0.051890 -48.558903 -64.770981 0.632674</VertexAnatomical>
+            <PosAnatomical>-50.620327 -69.920326 3.729674</PosAnatomical>
+            <FracRI>0.853053</FracRI>
+            <FracRJ>0.146947</FracRJ>
+         </VanEssenProjection>
+      </SurfaceProjectedItem>
+   </Focus>
+   <Focus Index="10">
+      <Area><![CDATA[]]></Area>
+      <ClassName><![CDATA[ESM05]]></ClassName>
+      <Comment><![CDATA[]]></Comment>
+      <Extent>0</Extent>
+      <Geography><![CDATA[]]></Geography>
+      <Name><![CDATA[Insula_Id1]]></Name>
+      <RegionOfInterest><![CDATA[]]></RegionOfInterest>
+      <SearchXYZ>-41.506931 -13.282714 -12.908928</SearchXYZ>
+      <Statistic><![CDATA[]]></Statistic>
+      <SumsIDNumber><![CDATA[-1]]></SumsIDNumber>
+      <SumsRepeatNumber><![CDATA[-1]]></SumsRepeatNumber>
+      <SumsParentFocusBaseID><![CDATA[-1]]></SumsParentFocusBaseID>
+      <SumsVersionNumber><![CDATA[-1]]></SumsVersionNumber>
+      <SumsMSLID><![CDATA[-1]]></SumsMSLID>
+      <AttributeID><![CDATA[-1]]></AttributeID>
+      <StudyMetaDataLinkSet>
+      </StudyMetaDataLinkSet>
+      <SurfaceProjectedItem>
+         <Structure>CORTEX_LEFT</Structure>
+         <StereotaxicXYZ>-41.799999 -13.900000 -12.500000</StereotaxicXYZ>
+         <VolumeXYZ>-41.799999 -13.900000 -12.500000</VolumeXYZ>
+         <VanEssenProjection>
+            <DR>1.41551</DR>
+            <TriAnatomical>-41.322395 -11.946503 -10.368705 -39.874039 -12.440985 -9.692673 -40.987873 -12.845830 -9.720942 -41.322395 -11.946503 -10.368705 -40.987873 -12.845830 -9.720942 -42.496956 -11.764936 -9.879144</TriAnatomical>
+            <ThetaR>0</ThetaR>
+            <PhiR>0.628755</PhiR>
+            <TriVertices>30976 10066 30977 30976 30977 31031</TriVertices>
+            <Vertex>30977 30976</Vertex>
+            <VertexAnatomical>-40.987873 -12.845830 -9.720942 -41.322395 -11.946503 -10.368705</VertexAnatomical>
+            <PosAnatomical>-41.987858 -14.087857 -12.687858</PosAnatomical>
+            <FracRI>0.850104</FracRI>
+            <FracRJ>0.149896</FracRJ>
+         </VanEssenProjection>
+      </SurfaceProjectedItem>
+   </Focus>
+   <Focus Index="11">
+      <Area><![CDATA[]]></Area>
+      <ClassName><![CDATA[ESM05]]></ClassName>
+      <Comment><![CDATA[]]></Comment>
+      <Extent>0</Extent>
+      <Geography><![CDATA[]]></Geography>
+      <Name><![CDATA[Insula_Ig1]]></Name>
+      <RegionOfInterest><![CDATA[]]></RegionOfInterest>
+      <SearchXYZ>-34.700001 -26.900002 7.210001</SearchXYZ>
+      <Statistic><![CDATA[]]></Statistic>
+      <SumsIDNumber><![CDATA[-1]]></SumsIDNumber>
+      <SumsRepeatNumber><![CDATA[-1]]></SumsRepeatNumber>
+      <SumsParentFocusBaseID><![CDATA[-1]]></SumsParentFocusBaseID>
+      <SumsVersionNumber><![CDATA[-1]]></SumsVersionNumber>
+      <SumsMSLID><![CDATA[-1]]></SumsMSLID>
+      <AttributeID><![CDATA[-1]]></AttributeID>
+      <StudyMetaDataLinkSet>
+      </StudyMetaDataLinkSet>
+      <SurfaceProjectedItem>
+         <Structure>CORTEX_LEFT</Structure>
+         <StereotaxicXYZ>-34.700001 -26.900000 7.210000</StereotaxicXYZ>
+         <VolumeXYZ>-34.700001 -26.900000 7.210000</VolumeXYZ>
+         <ProjectionBarycentric>
+            <TriangleAreas>0.447443 0.401162 0.151394</TriangleAreas>
+            <TriangleNodes>31158 31106 31105</TriangleNodes>
+            <SignedDistanceAboveSurface>4.59163e-41</SignedDistanceAboveSurface>
+         </ProjectionBarycentric>
+      </SurfaceProjectedItem>
+   </Focus>
+   <Focus Index="12">
+      <Area><![CDATA[]]></Area>
+      <ClassName><![CDATA[ESM05]]></ClassName>
+      <Comment><![CDATA[]]></Comment>
+      <Extent>0</Extent>
+      <Geography><![CDATA[]]></Geography>
+      <Name><![CDATA[Insula_Ig2]]></Name>
+      <RegionOfInterest><![CDATA[]]></RegionOfInterest>
+      <SearchXYZ>-36.900005 -21.500000 6.420001</SearchXYZ>
+      <Statistic><![CDATA[]]></Statistic>
+      <SumsIDNumber><![CDATA[-1]]></SumsIDNumber>
+      <SumsRepeatNumber><![CDATA[-1]]></SumsRepeatNumber>
+      <SumsParentFocusBaseID><![CDATA[-1]]></SumsParentFocusBaseID>
+      <SumsVersionNumber><![CDATA[-1]]></SumsVersionNumber>
+      <SumsMSLID><![CDATA[-1]]></SumsMSLID>
+      <AttributeID><![CDATA[-1]]></AttributeID>
+      <StudyMetaDataLinkSet>
+      </StudyMetaDataLinkSet>
+      <SurfaceProjectedItem>
+         <Structure>CORTEX_LEFT</Structure>
+         <StereotaxicXYZ>-36.900002 -21.500000 6.420000</StereotaxicXYZ>
+         <VolumeXYZ>-36.900002 -21.500000 6.420000</VolumeXYZ>
+         <ProjectionBarycentric>
+            <TriangleAreas>0.236009 0.752727 0.011265</TriangleAreas>
+            <TriangleNodes>10270 10216 10215</TriangleNodes>
+            <SignedDistanceAboveSurface>4.59163e-41</SignedDistanceAboveSurface>
+         </ProjectionBarycentric>
+      </SurfaceProjectedItem>
+   </Focus>
+   <Focus Index="13">
+      <Area><![CDATA[]]></Area>
+      <ClassName><![CDATA[ESM05]]></ClassName>
+      <Comment><![CDATA[]]></Comment>
+      <Extent>0</Extent>
+      <Geography><![CDATA[]]></Geography>
+      <Name><![CDATA[IPC_PFcm]]></Name>
+      <RegionOfInterest><![CDATA[]]></RegionOfInterest>
+      <SearchXYZ>-54.000004 -35.500000 23.900003</SearchXYZ>
+      <Statistic><![CDATA[]]></Statistic>
+      <SumsIDNumber><![CDATA[-1]]></SumsIDNumber>
+      <SumsRepeatNumber><![CDATA[-1]]></SumsRepeatNumber>
+      <SumsParentFocusBaseID><![CDATA[-1]]></SumsParentFocusBaseID>
+      <SumsVersionNumber><![CDATA[-1]]></SumsVersionNumber>
+      <SumsMSLID><![CDATA[-1]]></SumsMSLID>
+      <AttributeID><![CDATA[-1]]></AttributeID>
+      <StudyMetaDataLinkSet>
+      </StudyMetaDataLinkSet>
+      <SurfaceProjectedItem>
+         <Structure>CORTEX_LEFT</Structure>
+         <StereotaxicXYZ>-54.000000 -35.500000 23.900000</StereotaxicXYZ>
+         <VolumeXYZ>-54.000000 -35.500000 23.900000</VolumeXYZ>
+         <ProjectionBarycentric>
+            <TriangleAreas>0.478899 0.236029 0.285072</TriangleAreas>
+            <TriangleNodes>16936 16885 16935</TriangleNodes>
+            <SignedDistanceAboveSurface>4.59163e-41</SignedDistanceAboveSurface>
+         </ProjectionBarycentric>
+      </SurfaceProjectedItem>
+   </Focus>
+   <Focus Index="14">
+      <Area><![CDATA[]]></Area>
+      <ClassName><![CDATA[ESM05]]></ClassName>
+      <Comment><![CDATA[]]></Comment>
+      <Extent>0</Extent>
+      <Geography><![CDATA[]]></Geography>
+      <Name><![CDATA[IPC_PFm]]></Name>
+      <RegionOfInterest><![CDATA[]]></RegionOfInterest>
+      <SearchXYZ>-53.000000 -48.499996 35.999996</SearchXYZ>
+      <Statistic><![CDATA[]]></Statistic>
+      <SumsIDNumber><![CDATA[-1]]></SumsIDNumber>
+      <SumsRepeatNumber><![CDATA[-1]]></SumsRepeatNumber>
+      <SumsParentFocusBaseID><![CDATA[-1]]></SumsParentFocusBaseID>
+      <SumsVersionNumber><![CDATA[-1]]></SumsVersionNumber>
+      <SumsMSLID><![CDATA[-1]]></SumsMSLID>
+      <AttributeID><![CDATA[-1]]></AttributeID>
+      <StudyMetaDataLinkSet>
+      </StudyMetaDataLinkSet>
+      <SurfaceProjectedItem>
+         <Structure>CORTEX_LEFT</Structure>
+         <StereotaxicXYZ>-53.000000 -48.500000 36.000000</StereotaxicXYZ>
+         <VolumeXYZ>-53.000000 -48.500000 36.000000</VolumeXYZ>
+         <ProjectionBarycentric>
+            <TriangleAreas>0.638707 0.142323 0.218971</TriangleAreas>
+            <TriangleNodes>8911 8863 8910</TriangleNodes>
+            <SignedDistanceAboveSurface>4.59163e-41</SignedDistanceAboveSurface>
+         </ProjectionBarycentric>
+      </SurfaceProjectedItem>
+   </Focus>
+   <Focus Index="15">
+      <Area><![CDATA[]]></Area>
+      <ClassName><![CDATA[ESM05]]></ClassName>
+      <Comment><![CDATA[]]></Comment>
+      <Extent>0</Extent>
+      <Geography><![CDATA[]]></Geography>
+      <Name><![CDATA[IPC_PF]]></Name>
+      <RegionOfInterest><![CDATA[]]></RegionOfInterest>
+      <SearchXYZ>-58.100002 -38.900005 32.299999</SearchXYZ>
+      <Statistic><![CDATA[]]></Statistic>
+      <SumsIDNumber><![CDATA[-1]]></SumsIDNumber>
+      <SumsRepeatNumber><![CDATA[-1]]></SumsRepeatNumber>
+      <SumsParentFocusBaseID><![CDATA[-1]]></SumsParentFocusBaseID>
+      <SumsVersionNumber><![CDATA[-1]]></SumsVersionNumber>
+      <SumsMSLID><![CDATA[-1]]></SumsMSLID>
+      <AttributeID><![CDATA[-1]]></AttributeID>
+      <StudyMetaDataLinkSet>
+      </StudyMetaDataLinkSet>
+      <SurfaceProjectedItem>
+         <Structure>CORTEX_LEFT</Structure>
+         <StereotaxicXYZ>-58.099998 -38.900002 32.299999</StereotaxicXYZ>
+         <VolumeXYZ>-58.099998 -38.900002 32.299999</VolumeXYZ>
+         <ProjectionBarycentric>
+            <TriangleAreas>0.509685 0.466710 0.023605</TriangleAreas>
+            <TriangleNodes>16878 16826 16877</TriangleNodes>
+            <SignedDistanceAboveSurface>4.59163e-41</SignedDistanceAboveSurface>
+         </ProjectionBarycentric>
+      </SurfaceProjectedItem>
+   </Focus>
+   <Focus Index="16">
+      <Area><![CDATA[]]></Area>
+      <ClassName><![CDATA[ESM05]]></ClassName>
+      <Comment><![CDATA[]]></Comment>
+      <Extent>0</Extent>
+      <Geography><![CDATA[]]></Geography>
+      <Name><![CDATA[IPC_PFop]]></Name>
+      <RegionOfInterest><![CDATA[]]></RegionOfInterest>
+      <SearchXYZ>-56.899998 -23.900000 25.600000</SearchXYZ>
+      <Statistic><![CDATA[]]></Statistic>
+      <SumsIDNumber><![CDATA[-1]]></SumsIDNumber>
+      <SumsRepeatNumber><![CDATA[-1]]></SumsRepeatNumber>
+      <SumsParentFocusBaseID><![CDATA[-1]]></SumsParentFocusBaseID>
+      <SumsVersionNumber><![CDATA[-1]]></SumsVersionNumber>
+      <SumsMSLID><![CDATA[-1]]></SumsMSLID>
+      <AttributeID><![CDATA[-1]]></AttributeID>
+      <StudyMetaDataLinkSet>
+      </StudyMetaDataLinkSet>
+      <SurfaceProjectedItem>
+         <Structure>CORTEX_LEFT</Structure>
+         <StereotaxicXYZ>-56.900002 -23.900000 25.600000</StereotaxicXYZ>
+         <VolumeXYZ>-56.900002 -23.900000 25.600000</VolumeXYZ>
+         <VanEssenProjection>
+            <DR>0.333112</DR>
+            <TriAnatomical>-58.588875 -23.826427 26.033350 -59.307739 -24.534056 24.852425 -58.484959 -23.339586 25.442371 -58.588875 -23.826427 26.033350 -58.484959 -23.339586 25.442371 -58.199097 -22.468199 26.378603</TriAnatomical>
+            <ThetaR>0</ThetaR>
+            <PhiR>0.301478</PhiR>
+            <TriVertices>17423 17384 17424 17423 17424 17462</TriVertices>
+            <Vertex>17424 17423</Vertex>
+            <VertexAnatomical>-58.484959 -23.339586 25.442371 -58.588875 -23.826427 26.033350</VertexAnatomical>
+            <PosAnatomical>-57.027256 -24.027252 25.472748</PosAnatomical>
+            <FracRI>0.337075</FracRI>
+            <FracRJ>0.662925</FracRJ>
+         </VanEssenProjection>
+      </SurfaceProjectedItem>
+   </Focus>
+   <Focus Index="17">
+      <Area><![CDATA[]]></Area>
+      <ClassName><![CDATA[ESM05]]></ClassName>
+      <Comment><![CDATA[]]></Comment>
+      <Extent>0</Extent>
+      <Geography><![CDATA[]]></Geography>
+      <Name><![CDATA[IPC_PFt]]></Name>
+      <RegionOfInterest><![CDATA[]]></RegionOfInterest>
+      <SearchXYZ>-53.700005 -29.299999 40.000004</SearchXYZ>
+      <Statistic><![CDATA[]]></Statistic>
+      <SumsIDNumber><![CDATA[-1]]></SumsIDNumber>
+      <SumsRepeatNumber><![CDATA[-1]]></SumsRepeatNumber>
+      <SumsParentFocusBaseID><![CDATA[-1]]></SumsParentFocusBaseID>
+      <SumsVersionNumber><![CDATA[-1]]></SumsVersionNumber>
+      <SumsMSLID><![CDATA[-1]]></SumsMSLID>
+      <AttributeID><![CDATA[-1]]></AttributeID>
+      <StudyMetaDataLinkSet>
+      </StudyMetaDataLinkSet>
+      <SurfaceProjectedItem>
+         <Structure>CORTEX_LEFT</Structure>
+         <StereotaxicXYZ>-53.700001 -29.299999 40.000000</StereotaxicXYZ>
+         <VolumeXYZ>-53.700001 -29.299999 40.000000</VolumeXYZ>
+         <ProjectionBarycentric>
+            <TriangleAreas>0.537235 0.329750 0.133015</TriangleAreas>
+            <TriangleNodes>17368 17328 17327</TriangleNodes>
+            <SignedDistanceAboveSurface>4.59163e-41</SignedDistanceAboveSurface>
+         </ProjectionBarycentric>
+      </SurfaceProjectedItem>
+   </Focus>
+   <Focus Index="18">
+      <Area><![CDATA[]]></Area>
+      <ClassName><![CDATA[ESM05]]></ClassName>
+      <Comment><![CDATA[]]></Comment>
+      <Extent>0</Extent>
+      <Geography><![CDATA[]]></Geography>
+      <Name><![CDATA[IPC_PGa]]></Name>
+      <RegionOfInterest><![CDATA[]]></RegionOfInterest>
+      <SearchXYZ>-48.399998 -59.899994 32.999996</SearchXYZ>
+      <Statistic><![CDATA[]]></Statistic>
+      <SumsIDNumber><![CDATA[-1]]></SumsIDNumber>
+      <SumsRepeatNumber><![CDATA[-1]]></SumsRepeatNumber>
+      <SumsParentFocusBaseID><![CDATA[-1]]></SumsParentFocusBaseID>
+      <SumsVersionNumber><![CDATA[-1]]></SumsVersionNumber>
+      <SumsMSLID><![CDATA[-1]]></SumsMSLID>
+      <AttributeID><![CDATA[-1]]></AttributeID>
+      <StudyMetaDataLinkSet>
+      </StudyMetaDataLinkSet>
+      <SurfaceProjectedItem>
+         <Structure>CORTEX_LEFT</Structure>
+         <StereotaxicXYZ>-48.400002 -59.900002 33.000000</StereotaxicXYZ>
+         <VolumeXYZ>-48.400002 -59.900002 33.000000</VolumeXYZ>
+         <ProjectionBarycentric>
+            <TriangleAreas>0.126781 0.484381 0.388838</TriangleAreas>
+            <TriangleNodes>16494 16479 16493</TriangleNodes>
+            <SignedDistanceAboveSurface>4.59163e-41</SignedDistanceAboveSurface>
+         </ProjectionBarycentric>
+      </SurfaceProjectedItem>
+   </Focus>
+   <Focus Index="19">
+      <Area><![CDATA[]]></Area>
+      <ClassName><![CDATA[ESM05]]></ClassName>
+      <Comment><![CDATA[]]></Comment>
+      <Extent>0</Extent>
+      <Geography><![CDATA[]]></Geography>
+      <Name><![CDATA[IPC_PGp]]></Name>
+      <RegionOfInterest><![CDATA[]]></RegionOfInterest>
+      <SearchXYZ>-43.400002 -72.599998 29.200001</SearchXYZ>
+      <Statistic><![CDATA[]]></Statistic>
+      <SumsIDNumber><![CDATA[-1]]></SumsIDNumber>
+      <SumsRepeatNumber><![CDATA[-1]]></SumsRepeatNumber>
+      <SumsParentFocusBaseID><![CDATA[-1]]></SumsParentFocusBaseID>
+      <SumsVersionNumber><![CDATA[-1]]></SumsVersionNumber>
+      <SumsMSLID><![CDATA[-1]]></SumsMSLID>
+      <AttributeID><![CDATA[-1]]></AttributeID>
+      <StudyMetaDataLinkSet>
+      </StudyMetaDataLinkSet>
+      <SurfaceProjectedItem>
+         <Structure>CORTEX_LEFT</Structure>
+         <StereotaxicXYZ>-43.400002 -72.599998 29.200001</StereotaxicXYZ>
+         <VolumeXYZ>-43.400002 -72.599998 29.200001</VolumeXYZ>
+         <ProjectionBarycentric>
+            <TriangleAreas>0.218910 0.339382 0.441707</TriangleAreas>
+            <TriangleNodes>16036 16003 16002</TriangleNodes>
+            <SignedDistanceAboveSurface>4.59163e-41</SignedDistanceAboveSurface>
+         </ProjectionBarycentric>
+      </SurfaceProjectedItem>
+   </Focus>
+   <Focus Index="20">
+      <Area><![CDATA[]]></Area>
+      <ClassName><![CDATA[ESM05]]></ClassName>
+      <Comment><![CDATA[]]></Comment>
+      <Extent>0</Extent>
+      <Geography><![CDATA[]]></Geography>
+      <Name><![CDATA[PAC_TE10]]></Name>
+      <RegionOfInterest><![CDATA[]]></RegionOfInterest>
+      <SearchXYZ>-49.499996 -20.200003 5.710001</SearchXYZ>
+      <Statistic><![CDATA[]]></Statistic>
+      <SumsIDNumber><![CDATA[-1]]></SumsIDNumber>
+      <SumsRepeatNumber><![CDATA[-1]]></SumsRepeatNumber>
+      <SumsParentFocusBaseID><![CDATA[-1]]></SumsParentFocusBaseID>
+      <SumsVersionNumber><![CDATA[-1]]></SumsVersionNumber>
+      <SumsMSLID><![CDATA[-1]]></SumsMSLID>
+      <AttributeID><![CDATA[-1]]></AttributeID>
+      <StudyMetaDataLinkSet>
+      </StudyMetaDataLinkSet>
+      <SurfaceProjectedItem>
+         <Structure>CORTEX_LEFT</Structure>
+         <StereotaxicXYZ>-49.500000 -20.200001 5.710000</StereotaxicXYZ>
+         <VolumeXYZ>-49.500000 -20.200001 5.710000</VolumeXYZ>
+         <ProjectionBarycentric>
+            <TriangleAreas>0.575901 0.064099 0.360001</TriangleAreas>
+            <TriangleNodes>31626 31583 31625</TriangleNodes>
+            <SignedDistanceAboveSurface>4.59163e-41</SignedDistanceAboveSurface>
+         </ProjectionBarycentric>
+      </SurfaceProjectedItem>
+   </Focus>
+   <Focus Index="21">
+      <Area><![CDATA[]]></Area>
+      <ClassName><![CDATA[ESM05]]></ClassName>
+      <Comment><![CDATA[]]></Comment>
+      <Extent>0</Extent>
+      <Geography><![CDATA[]]></Geography>
+      <Name><![CDATA[PAC_TE11]]></Name>
+      <RegionOfInterest><![CDATA[]]></RegionOfInterest>
+      <SearchXYZ>-43.099998 -29.100000 10.499998</SearchXYZ>
+      <Statistic><![CDATA[]]></Statistic>
+      <SumsIDNumber><![CDATA[-1]]></SumsIDNumber>
+      <SumsRepeatNumber><![CDATA[-1]]></SumsRepeatNumber>
+      <SumsParentFocusBaseID><![CDATA[-1]]></SumsParentFocusBaseID>
+      <SumsVersionNumber><![CDATA[-1]]></SumsVersionNumber>
+      <SumsMSLID><![CDATA[-1]]></SumsMSLID>
+      <AttributeID><![CDATA[-1]]></AttributeID>
+      <StudyMetaDataLinkSet>
+      </StudyMetaDataLinkSet>
+      <SurfaceProjectedItem>
+         <Structure>CORTEX_LEFT</Structure>
+         <StereotaxicXYZ>-43.099998 -29.100000 10.500000</StereotaxicXYZ>
+         <VolumeXYZ>-43.099998 -29.100000 10.500000</VolumeXYZ>
+         <VanEssenProjection>
+            <DR>0.0629192</DR>
+            <TriAnatomical>-43.232742 -28.431635 9.689937 -41.936981 -28.943003 11.056165 -42.137657 -29.611822 9.789846 -42.828690 -27.772266 10.962163 -41.936981 -28.943003 11.056165 -43.232742 -28.431635 9.689937</TriAnatomical>
+            <ThetaR>0</ThetaR>
+            <PhiR>0.117295</PhiR>
+            <TriVertices>31501 31456 8485 31455 31456 31501</TriVertices>
+            <Vertex>31456 31501</Vertex>
+            <VertexAnatomical>-41.936981 -28.943003 11.056165 -43.232742 -28.431635 9.689937</VertexAnatomical>
+            <PosAnatomical>-42.958935 -28.958935 10.641066</PosAnatomical>
+            <FracRI>0.494653</FracRI>
+            <FracRJ>0.505347</FracRJ>
+         </VanEssenProjection>
+      </SurfaceProjectedItem>
+   </Focus>
+   <Focus Index="22">
+      <Area><![CDATA[]]></Area>
+      <ClassName><![CDATA[ESM05]]></ClassName>
+      <Comment><![CDATA[]]></Comment>
+      <Extent>0</Extent>
+      <Geography><![CDATA[]]></Geography>
+      <Name><![CDATA[PAC_TE12]]></Name>
+      <RegionOfInterest><![CDATA[]]></RegionOfInterest>
+      <SearchXYZ>-53.700001 -9.390001 2.060001</SearchXYZ>
+      <Statistic><![CDATA[]]></Statistic>
+      <SumsIDNumber><![CDATA[-1]]></SumsIDNumber>
+      <SumsRepeatNumber><![CDATA[-1]]></SumsRepeatNumber>
+      <SumsParentFocusBaseID><![CDATA[-1]]></SumsParentFocusBaseID>
+      <SumsVersionNumber><![CDATA[-1]]></SumsVersionNumber>
+      <SumsMSLID><![CDATA[-1]]></SumsMSLID>
+      <AttributeID><![CDATA[-1]]></AttributeID>
+      <StudyMetaDataLinkSet>
+      </StudyMetaDataLinkSet>
+      <SurfaceProjectedItem>
+         <Structure>CORTEX_LEFT</Structure>
+         <StereotaxicXYZ>-53.700001 -9.390000 2.060000</StereotaxicXYZ>
+         <VolumeXYZ>-53.700001 -9.390000 2.060000</VolumeXYZ>
+         <ProjectionBarycentric>
+            <TriangleAreas>0.078922 0.804240 0.116838</TriangleAreas>
+            <TriangleNodes>31573 31530 31529</TriangleNodes>
+            <SignedDistanceAboveSurface>4.59163e-41</SignedDistanceAboveSurface>
+         </ProjectionBarycentric>
+      </SurfaceProjectedItem>
+   </Focus>
+   <Focus Index="23">
+      <Area><![CDATA[]]></Area>
+      <ClassName><![CDATA[ESM05]]></ClassName>
+      <Comment><![CDATA[]]></Comment>
+      <Extent>0</Extent>
+      <Geography><![CDATA[]]></Geography>
+      <Name><![CDATA[PMC_4a]]></Name>
+      <RegionOfInterest><![CDATA[]]></RegionOfInterest>
+      <SearchXYZ>-24.499996 -22.299997 55.500000</SearchXYZ>
+      <Statistic><![CDATA[]]></Statistic>
+      <SumsIDNumber><![CDATA[-1]]></SumsIDNumber>
+      <SumsRepeatNumber><![CDATA[-1]]></SumsRepeatNumber>
+      <SumsParentFocusBaseID><![CDATA[-1]]></SumsParentFocusBaseID>
+      <SumsVersionNumber><![CDATA[-1]]></SumsVersionNumber>
+      <SumsMSLID><![CDATA[-1]]></SumsMSLID>
+      <AttributeID><![CDATA[-1]]></AttributeID>
+      <StudyMetaDataLinkSet>
+      </StudyMetaDataLinkSet>
+      <SurfaceProjectedItem>
+         <Structure>CORTEX_LEFT</Structure>
+         <StereotaxicXYZ>-24.500000 -22.299999 55.500000</StereotaxicXYZ>
+         <VolumeXYZ>-24.500000 -22.299999 55.500000</VolumeXYZ>
+         <ProjectionBarycentric>
+            <TriangleAreas>0.315487 0.387364 0.297149</TriangleAreas>
+            <TriangleNodes>5372 5321 5320</TriangleNodes>
+            <SignedDistanceAboveSurface>4.59163e-41</SignedDistanceAboveSurface>
+         </ProjectionBarycentric>
+      </SurfaceProjectedItem>
+   </Focus>
+   <Focus Index="24">
+      <Area><![CDATA[]]></Area>
+      <ClassName><![CDATA[ESM05]]></ClassName>
+      <Comment><![CDATA[]]></Comment>
+      <Extent>0</Extent>
+      <Geography><![CDATA[]]></Geography>
+      <Name><![CDATA[PMC_4p]]></Name>
+      <RegionOfInterest><![CDATA[]]></RegionOfInterest>
+      <SearchXYZ>-31.200005 -23.700003 49.600002</SearchXYZ>
+      <Statistic><![CDATA[]]></Statistic>
+      <SumsIDNumber><![CDATA[-1]]></SumsIDNumber>
+      <SumsRepeatNumber><![CDATA[-1]]></SumsRepeatNumber>
+      <SumsParentFocusBaseID><![CDATA[-1]]></SumsParentFocusBaseID>
+      <SumsVersionNumber><![CDATA[-1]]></SumsVersionNumber>
+      <SumsMSLID><![CDATA[-1]]></SumsMSLID>
+      <AttributeID><![CDATA[-1]]></AttributeID>
+      <StudyMetaDataLinkSet>
+      </StudyMetaDataLinkSet>
+      <SurfaceProjectedItem>
+         <Structure>CORTEX_LEFT</Structure>
+         <StereotaxicXYZ>-31.200001 -23.700001 49.599998</StereotaxicXYZ>
+         <VolumeXYZ>-31.200001 -23.700001 49.599998</VolumeXYZ>
+         <ProjectionBarycentric>
+            <TriangleAreas>0.111992 0.221139 0.666869</TriangleAreas>
+            <TriangleNodes>5054 7977 5053</TriangleNodes>
+            <SignedDistanceAboveSurface>4.59163e-41</SignedDistanceAboveSurface>
+         </ProjectionBarycentric>
+      </SurfaceProjectedItem>
+   </Focus>
+   <Focus Index="25">
+      <Area><![CDATA[]]></Area>
+      <ClassName><![CDATA[ESM05]]></ClassName>
+      <Comment><![CDATA[]]></Comment>
+      <Extent>0</Extent>
+      <Geography><![CDATA[]]></Geography>
+      <Name><![CDATA[premotor_6]]></Name>
+      <RegionOfInterest><![CDATA[]]></RegionOfInterest>
+      <SearchXYZ>-24.400002 -7.080000 52.699997</SearchXYZ>
+      <Statistic><![CDATA[]]></Statistic>
+      <SumsIDNumber><![CDATA[-1]]></SumsIDNumber>
+      <SumsRepeatNumber><![CDATA[-1]]></SumsRepeatNumber>
+      <SumsParentFocusBaseID><![CDATA[-1]]></SumsParentFocusBaseID>
+      <SumsVersionNumber><![CDATA[-1]]></SumsVersionNumber>
+      <SumsMSLID><![CDATA[-1]]></SumsMSLID>
+      <AttributeID><![CDATA[-1]]></AttributeID>
+      <StudyMetaDataLinkSet>
+      </StudyMetaDataLinkSet>
+      <SurfaceProjectedItem>
+         <Structure>CORTEX_LEFT</Structure>
+         <StereotaxicXYZ>-24.400000 -7.080000 52.700001</StereotaxicXYZ>
+         <VolumeXYZ>-24.400000 -7.080000 52.700001</VolumeXYZ>
+         <ProjectionBarycentric>
+            <TriangleAreas>0.069786 0.782074 0.148140</TriangleAreas>
+            <TriangleNodes>6233 6203 6202</TriangleNodes>
+            <SignedDistanceAboveSurface>4.59163e-41</SignedDistanceAboveSurface>
+         </ProjectionBarycentric>
+      </SurfaceProjectedItem>
+   </Focus>
+   <Focus Index="26">
+      <Area><![CDATA[]]></Area>
+      <ClassName><![CDATA[ESM05]]></ClassName>
+      <Comment><![CDATA[]]></Comment>
+      <Extent>0</Extent>
+      <Geography><![CDATA[]]></Geography>
+      <Name><![CDATA[PSC_1]]></Name>
+      <RegionOfInterest><![CDATA[]]></RegionOfInterest>
+      <SearchXYZ>-43.400002 -23.400000 51.900005</SearchXYZ>
+      <Statistic><![CDATA[]]></Statistic>
+      <SumsIDNumber><![CDATA[-1]]></SumsIDNumber>
+      <SumsRepeatNumber><![CDATA[-1]]></SumsRepeatNumber>
+      <SumsParentFocusBaseID><![CDATA[-1]]></SumsParentFocusBaseID>
+      <SumsVersionNumber><![CDATA[-1]]></SumsVersionNumber>
+      <SumsMSLID><![CDATA[-1]]></SumsMSLID>
+      <AttributeID><![CDATA[-1]]></AttributeID>
+      <StudyMetaDataLinkSet>
+      </StudyMetaDataLinkSet>
+      <SurfaceProjectedItem>
+         <Structure>CORTEX_LEFT</Structure>
+         <StereotaxicXYZ>-43.400002 -23.400000 51.900002</StereotaxicXYZ>
+         <VolumeXYZ>-43.400002 -23.400000 51.900002</VolumeXYZ>
+         <ProjectionBarycentric>
+            <TriangleAreas>0.375334 0.051328 0.573338</TriangleAreas>
+            <TriangleNodes>7987 7960 7986</TriangleNodes>
+            <SignedDistanceAboveSurface>4.59163e-41</SignedDistanceAboveSurface>
+         </ProjectionBarycentric>
+      </SurfaceProjectedItem>
+   </Focus>
+   <Focus Index="27">
+      <Area><![CDATA[]]></Area>
+      <ClassName><![CDATA[ESM05]]></ClassName>
+      <Comment><![CDATA[]]></Comment>
+      <Extent>0</Extent>
+      <Geography><![CDATA[]]></Geography>
+      <Name><![CDATA[PSC_2]]></Name>
+      <RegionOfInterest><![CDATA[]]></RegionOfInterest>
+      <SearchXYZ>-42.000000 -31.600000 49.799999</SearchXYZ>
+      <Statistic><![CDATA[]]></Statistic>
+      <SumsIDNumber><![CDATA[-1]]></SumsIDNumber>
+      <SumsRepeatNumber><![CDATA[-1]]></SumsRepeatNumber>
+      <SumsParentFocusBaseID><![CDATA[-1]]></SumsParentFocusBaseID>
+      <SumsVersionNumber><![CDATA[-1]]></SumsVersionNumber>
+      <SumsMSLID><![CDATA[-1]]></SumsMSLID>
+      <AttributeID><![CDATA[-1]]></AttributeID>
+      <StudyMetaDataLinkSet>
+      </StudyMetaDataLinkSet>
+      <SurfaceProjectedItem>
+         <Structure>CORTEX_LEFT</Structure>
+         <StereotaxicXYZ>-42.000000 -31.600000 49.799999</StereotaxicXYZ>
+         <VolumeXYZ>-42.000000 -31.600000 49.799999</VolumeXYZ>
+         <ProjectionBarycentric>
+            <TriangleAreas>0.281789 0.377040 0.341171</TriangleAreas>
+            <TriangleNodes>7531 7491 7490</TriangleNodes>
+            <SignedDistanceAboveSurface>4.59163e-41</SignedDistanceAboveSurface>
+         </ProjectionBarycentric>
+      </SurfaceProjectedItem>
+   </Focus>
+   <Focus Index="28">
+      <Area><![CDATA[]]></Area>
+      <ClassName><![CDATA[ESM05]]></ClassName>
+      <Comment><![CDATA[]]></Comment>
+      <Extent>0</Extent>
+      <Geography><![CDATA[]]></Geography>
+      <Name><![CDATA[PSC_3a]]></Name>
+      <RegionOfInterest><![CDATA[]]></RegionOfInterest>
+      <SearchXYZ>-33.393463 -26.276785 43.145069</SearchXYZ>
+      <Statistic><![CDATA[]]></Statistic>
+      <SumsIDNumber><![CDATA[-1]]></SumsIDNumber>
+      <SumsRepeatNumber><![CDATA[-1]]></SumsRepeatNumber>
+      <SumsParentFocusBaseID><![CDATA[-1]]></SumsParentFocusBaseID>
+      <SumsVersionNumber><![CDATA[-1]]></SumsVersionNumber>
+      <SumsMSLID><![CDATA[-1]]></SumsMSLID>
+      <AttributeID><![CDATA[-1]]></AttributeID>
+      <StudyMetaDataLinkSet>
+      </StudyMetaDataLinkSet>
+      <SurfaceProjectedItem>
+         <Structure>CORTEX_LEFT</Structure>
+         <StereotaxicXYZ>-32.400002 -24.900000 42.799999</StereotaxicXYZ>
+         <VolumeXYZ>-32.400002 -24.900000 42.799999</VolumeXYZ>
+         <VanEssenProjection>
+            <DR>0.439004</DR>
+            <TriAnatomical>-33.617992 -21.541410 44.321255 -34.822590 -22.276468 43.994286 -34.027805 -21.586329 43.230865 -34.822590 -22.276468 43.994286 -35.554966 -22.032776 43.412941 -34.027805 -21.586329 43.230865</TriAnatomical>
+            <ThetaR>0</ThetaR>
+            <PhiR>0.544367</PhiR>
+            <TriVertices>8142 8123 8143 8123 8124 8143</TriVertices>
+            <Vertex>8143 8123</Vertex>
+            <VertexAnatomical>-34.027805 -21.586329 43.230865 -34.822590 -22.276468 43.994286</VertexAnatomical>
+            <PosAnatomical>-32.598766 -25.098766 42.601234</PosAnatomical>
+            <FracRI>0.477661</FracRI>
+            <FracRJ>0.522339</FracRJ>
+         </VanEssenProjection>
+      </SurfaceProjectedItem>
+   </Focus>
+   <Focus Index="29">
+      <Area><![CDATA[]]></Area>
+      <ClassName><![CDATA[ESM05]]></ClassName>
+      <Comment><![CDATA[]]></Comment>
+      <Extent>0</Extent>
+      <Geography><![CDATA[]]></Geography>
+      <Name><![CDATA[PSC_3b]]></Name>
+      <RegionOfInterest><![CDATA[]]></RegionOfInterest>
+      <SearchXYZ>-37.099995 -23.099998 48.200001</SearchXYZ>
+      <Statistic><![CDATA[]]></Statistic>
+      <SumsIDNumber><![CDATA[-1]]></SumsIDNumber>
+      <SumsRepeatNumber><![CDATA[-1]]></SumsRepeatNumber>
+      <SumsParentFocusBaseID><![CDATA[-1]]></SumsParentFocusBaseID>
+      <SumsVersionNumber><![CDATA[-1]]></SumsVersionNumber>
+      <SumsMSLID><![CDATA[-1]]></SumsMSLID>
+      <AttributeID><![CDATA[-1]]></AttributeID>
+      <StudyMetaDataLinkSet>
+      </StudyMetaDataLinkSet>
+      <SurfaceProjectedItem>
+         <Structure>CORTEX_LEFT</Structure>
+         <StereotaxicXYZ>-37.099998 -23.100000 48.200001</StereotaxicXYZ>
+         <VolumeXYZ>-37.099998 -23.100000 48.200001</VolumeXYZ>
+         <ProjectionBarycentric>
+            <TriangleAreas>0.137409 0.277032 0.585558</TriangleAreas>
+            <TriangleNodes>8099 8077 8098</TriangleNodes>
+            <SignedDistanceAboveSurface>4.59163e-41</SignedDistanceAboveSurface>
+         </ProjectionBarycentric>
+      </SurfaceProjectedItem>
+   </Focus>
+   <Focus Index="30">
+      <Area><![CDATA[]]></Area>
+      <ClassName><![CDATA[ESM05]]></ClassName>
+      <Comment><![CDATA[]]></Comment>
+      <Extent>0</Extent>
+      <Geography><![CDATA[]]></Geography>
+      <Name><![CDATA[SII_OP1]]></Name>
+      <RegionOfInterest><![CDATA[]]></RegionOfInterest>
+      <SearchXYZ>-53.599998 -25.299999 19.299999</SearchXYZ>
+      <Statistic><![CDATA[]]></Statistic>
+      <SumsIDNumber><![CDATA[-1]]></SumsIDNumber>
+      <SumsRepeatNumber><![CDATA[-1]]></SumsRepeatNumber>
+      <SumsParentFocusBaseID><![CDATA[-1]]></SumsParentFocusBaseID>
+      <SumsVersionNumber><![CDATA[-1]]></SumsVersionNumber>
+      <SumsMSLID><![CDATA[-1]]></SumsMSLID>
+      <AttributeID><![CDATA[-1]]></AttributeID>
+      <StudyMetaDataLinkSet>
+      </StudyMetaDataLinkSet>
+      <SurfaceProjectedItem>
+         <Structure>CORTEX_LEFT</Structure>
+         <StereotaxicXYZ>-53.599998 -25.299999 19.299999</StereotaxicXYZ>
+         <VolumeXYZ>-53.599998 -25.299999 19.299999</VolumeXYZ>
+         <ProjectionBarycentric>
+            <TriangleAreas>0.243521 0.435835 0.320644</TriangleAreas>
+            <TriangleNodes>17223 17179 17178</TriangleNodes>
+            <SignedDistanceAboveSurface>4.59163e-41</SignedDistanceAboveSurface>
+         </ProjectionBarycentric>
+      </SurfaceProjectedItem>
+   </Focus>
+   <Focus Index="31">
+      <Area><![CDATA[]]></Area>
+      <ClassName><![CDATA[ESM05]]></ClassName>
+      <Comment><![CDATA[]]></Comment>
+      <Extent>0</Extent>
+      <Geography><![CDATA[]]></Geography>
+      <Name><![CDATA[SII_OP2]]></Name>
+      <RegionOfInterest><![CDATA[]]></RegionOfInterest>
+      <SearchXYZ>-38.099998 -24.500002 18.600000</SearchXYZ>
+      <Statistic><![CDATA[]]></Statistic>
+      <SumsIDNumber><![CDATA[-1]]></SumsIDNumber>
+      <SumsRepeatNumber><![CDATA[-1]]></SumsRepeatNumber>
+      <SumsParentFocusBaseID><![CDATA[-1]]></SumsParentFocusBaseID>
+      <SumsVersionNumber><![CDATA[-1]]></SumsVersionNumber>
+      <SumsMSLID><![CDATA[-1]]></SumsMSLID>
+      <AttributeID><![CDATA[-1]]></AttributeID>
+      <StudyMetaDataLinkSet>
+      </StudyMetaDataLinkSet>
+      <SurfaceProjectedItem>
+         <Structure>CORTEX_LEFT</Structure>
+         <StereotaxicXYZ>-38.099998 -24.500000 18.600000</StereotaxicXYZ>
+         <VolumeXYZ>-38.099998 -24.500000 18.600000</VolumeXYZ>
+         <ProjectionBarycentric>
+            <TriangleAreas>0.691091 0.285767 0.023142</TriangleAreas>
+            <TriangleNodes>16855 16802 16854</TriangleNodes>
+            <SignedDistanceAboveSurface>4.59163e-41</SignedDistanceAboveSurface>
+         </ProjectionBarycentric>
+      </SurfaceProjectedItem>
+   </Focus>
+   <Focus Index="32">
+      <Area><![CDATA[]]></Area>
+      <ClassName><![CDATA[ESM05]]></ClassName>
+      <Comment><![CDATA[]]></Comment>
+      <Extent>0</Extent>
+      <Geography><![CDATA[]]></Geography>
+      <Name><![CDATA[SII_OP3]]></Name>
+      <RegionOfInterest><![CDATA[]]></RegionOfInterest>
+      <SearchXYZ>-43.500000 -15.900000 16.900000</SearchXYZ>
+      <Statistic><![CDATA[]]></Statistic>
+      <SumsIDNumber><![CDATA[-1]]></SumsIDNumber>
+      <SumsRepeatNumber><![CDATA[-1]]></SumsRepeatNumber>
+      <SumsParentFocusBaseID><![CDATA[-1]]></SumsParentFocusBaseID>
+      <SumsVersionNumber><![CDATA[-1]]></SumsVersionNumber>
+      <SumsMSLID><![CDATA[-1]]></SumsMSLID>
+      <AttributeID><![CDATA[-1]]></AttributeID>
+      <StudyMetaDataLinkSet>
+      </StudyMetaDataLinkSet>
+      <SurfaceProjectedItem>
+         <Structure>CORTEX_LEFT</Structure>
+         <StereotaxicXYZ>-43.500000 -15.900000 16.900000</StereotaxicXYZ>
+         <VolumeXYZ>-43.500000 -15.900000 16.900000</VolumeXYZ>
+         <VanEssenProjection>
+            <DR>0.0690705</DR>
+            <TriAnatomical>-45.046234 -16.423428 17.580641 -43.640774 -17.209473 17.796253 -44.854984 -15.874899 18.104763 -43.640774 -17.209473 17.796253 -43.490623 -16.639196 18.381325 -44.854984 -15.874899 18.104763</TriAnatomical>
+            <ThetaR>0</ThetaR>
+            <PhiR>0.0687694</PhiR>
+            <TriVertices>17102 17055 16635 17055 16636 16635</TriVertices>
+            <Vertex>16635 17055</Vertex>
+            <VertexAnatomical>-44.854984 -15.874899 18.104763 -43.640774 -17.209473 17.796253</VertexAnatomical>
+            <PosAnatomical>-43.475262 -15.875260 16.924738</PosAnatomical>
+            <FracRI>0.608793</FracRI>
+            <FracRJ>0.391206</FracRJ>
+         </VanEssenProjection>
+      </SurfaceProjectedItem>
+   </Focus>
+   <Focus Index="33">
+      <Area><![CDATA[]]></Area>
+      <ClassName><![CDATA[ESM05]]></ClassName>
+      <Comment><![CDATA[]]></Comment>
+      <Extent>0</Extent>
+      <Geography><![CDATA[]]></Geography>
+      <Name><![CDATA[SII_OP4]]></Name>
+      <RegionOfInterest><![CDATA[]]></RegionOfInterest>
+      <SearchXYZ>-54.899998 -11.500001 12.300001</SearchXYZ>
+      <Statistic><![CDATA[]]></Statistic>
+      <SumsIDNumber><![CDATA[-1]]></SumsIDNumber>
+      <SumsRepeatNumber><![CDATA[-1]]></SumsRepeatNumber>
+      <SumsParentFocusBaseID><![CDATA[-1]]></SumsParentFocusBaseID>
+      <SumsVersionNumber><![CDATA[-1]]></SumsVersionNumber>
+      <SumsMSLID><![CDATA[-1]]></SumsMSLID>
+      <AttributeID><![CDATA[-1]]></AttributeID>
+      <StudyMetaDataLinkSet>
+      </StudyMetaDataLinkSet>
+      <SurfaceProjectedItem>
+         <Structure>CORTEX_LEFT</Structure>
+         <StereotaxicXYZ>-54.900002 -11.500000 12.300000</StereotaxicXYZ>
+         <VolumeXYZ>-54.900002 -11.500000 12.300000</VolumeXYZ>
+         <ProjectionBarycentric>
+            <TriangleAreas>0.611064 0.377359 0.011577</TriangleAreas>
+            <TriangleNodes>17480 17442 17441</TriangleNodes>
+            <SignedDistanceAboveSurface>4.59163e-41</SignedDistanceAboveSurface>
+         </ProjectionBarycentric>
+      </SurfaceProjectedItem>
+   </Focus>
+   <Focus Index="34">
+      <Area><![CDATA[]]></Area>
+      <ClassName><![CDATA[ESM05]]></ClassName>
+      <Comment><![CDATA[]]></Comment>
+      <Extent>0</Extent>
+      <Geography><![CDATA[]]></Geography>
+      <Name><![CDATA[SPL5Ci]]></Name>
+      <RegionOfInterest><![CDATA[]]></RegionOfInterest>
+      <SearchXYZ>-10.900001 -37.400002 45.799999</SearchXYZ>
+      <Statistic><![CDATA[]]></Statistic>
+      <SumsIDNumber><![CDATA[-1]]></SumsIDNumber>
+      <SumsRepeatNumber><![CDATA[-1]]></SumsRepeatNumber>
+      <SumsParentFocusBaseID><![CDATA[-1]]></SumsParentFocusBaseID>
+      <SumsVersionNumber><![CDATA[-1]]></SumsVersionNumber>
+      <SumsMSLID><![CDATA[-1]]></SumsMSLID>
+      <AttributeID><![CDATA[-1]]></AttributeID>
+      <StudyMetaDataLinkSet>
+      </StudyMetaDataLinkSet>
+      <SurfaceProjectedItem>
+         <Structure>CORTEX_LEFT</Structure>
+         <StereotaxicXYZ>-10.900000 -37.400002 45.799999</StereotaxicXYZ>
+         <VolumeXYZ>-10.900000 -37.400002 45.799999</VolumeXYZ>
+         <VanEssenProjection>
+            <DR>0.183283</DR>
+            <TriAnatomical>-10.573943 -38.692043 43.436954 -9.886300 -39.704704 44.526112 -11.649484 -39.195381 43.504253 -8.662706 -39.370026 44.532845 -9.886300 -39.704704 44.526112 -10.573943 -38.692043 43.436954</TriAnatomical>
+            <ThetaR>0</ThetaR>
+            <PhiR>0.0713058</PhiR>
+            <TriVertices>3810 3761 3811 3760 3761 3810</TriVertices>
+            <Vertex>3761 3810</Vertex>
+            <VertexAnatomical>-9.886300 -39.704704 44.526112 -10.573943 -38.692043 43.436954</VertexAnatomical>
+            <PosAnatomical>-10.806341 -37.306343 45.893658</PosAnatomical>
+            <FracRI>0.58553</FracRI>
+            <FracRJ>0.41447</FracRJ>
+         </VanEssenProjection>
+      </SurfaceProjectedItem>
+   </Focus>
+   <Focus Index="35">
+      <Area><![CDATA[]]></Area>
+      <ClassName><![CDATA[ESM05]]></ClassName>
+      <Comment><![CDATA[]]></Comment>
+      <Extent>0</Extent>
+      <Geography><![CDATA[]]></Geography>
+      <Name><![CDATA[SPL5L]]></Name>
+      <RegionOfInterest><![CDATA[]]></RegionOfInterest>
+      <SearchXYZ>-16.465858 -48.625031 64.205666</SearchXYZ>
+      <Statistic><![CDATA[]]></Statistic>
+      <SumsIDNumber><![CDATA[-1]]></SumsIDNumber>
+      <SumsRepeatNumber><![CDATA[-1]]></SumsRepeatNumber>
+      <SumsParentFocusBaseID><![CDATA[-1]]></SumsParentFocusBaseID>
+      <SumsVersionNumber><![CDATA[-1]]></SumsVersionNumber>
+      <SumsMSLID><![CDATA[-1]]></SumsMSLID>
+      <AttributeID><![CDATA[-1]]></AttributeID>
+      <StudyMetaDataLinkSet>
+      </StudyMetaDataLinkSet>
+      <SurfaceProjectedItem>
+         <Structure>CORTEX_LEFT</Structure>
+         <StereotaxicXYZ>-16.100000 -49.000000 64.699997</StereotaxicXYZ>
+         <VolumeXYZ>-16.100000 -49.000000 64.699997</VolumeXYZ>
+         <VanEssenProjection>
+            <DR>0.365455</DR>
+            <TriAnatomical>-18.165785 -50.220829 64.778084 -18.113245 -49.394703 65.459770 -17.552597 -50.044228 65.882408 -17.552597 -50.044228 65.882408 -18.113245 -49.394703 65.459770 -17.745234 -49.177380 66.908188</TriAnatomical>
+            <ThetaR>0</ThetaR>
+            <PhiR>0.265443</PhiR>
+            <TriVertices>11958 11959 12012 12012 11959 12013</TriVertices>
+            <Vertex>12012 11959</Vertex>
+            <VertexAnatomical>-17.552597 -50.044228 65.882408 -18.113245 -49.394703 65.459770</VertexAnatomical>
+            <PosAnatomical>-15.894574 -48.794575 64.905426</PosAnatomical>
+            <FracRI>0.322491</FracRI>
+            <FracRJ>0.677509</FracRJ>
+         </VanEssenProjection>
+      </SurfaceProjectedItem>
+   </Focus>
+   <Focus Index="36">
+      <Area><![CDATA[]]></Area>
+      <ClassName><![CDATA[ESM05]]></ClassName>
+      <Comment><![CDATA[]]></Comment>
+      <Extent>0</Extent>
+      <Geography><![CDATA[]]></Geography>
+      <Name><![CDATA[SPL_5M]]></Name>
+      <RegionOfInterest><![CDATA[]]></RegionOfInterest>
+      <SearchXYZ>-8.510001 -43.500000 57.599998</SearchXYZ>
+      <Statistic><![CDATA[]]></Statistic>
+      <SumsIDNumber><![CDATA[-1]]></SumsIDNumber>
+      <SumsRepeatNumber><![CDATA[-1]]></SumsRepeatNumber>
+      <SumsParentFocusBaseID><![CDATA[-1]]></SumsParentFocusBaseID>
+      <SumsVersionNumber><![CDATA[-1]]></SumsVersionNumber>
+      <SumsMSLID><![CDATA[-1]]></SumsMSLID>
+      <AttributeID><![CDATA[-1]]></AttributeID>
+      <StudyMetaDataLinkSet>
+      </StudyMetaDataLinkSet>
+      <SurfaceProjectedItem>
+         <Structure>CORTEX_LEFT</Structure>
+         <StereotaxicXYZ>-8.510000 -43.500000 57.599998</StereotaxicXYZ>
+         <VolumeXYZ>-8.510000 -43.500000 57.599998</VolumeXYZ>
+         <VanEssenProjection>
+            <DR>0.260216</DR>
+            <TriAnatomical>-8.454628 -40.503731 58.271374 -9.684772 -40.661888 59.447002 -7.785264 -40.880024 59.235268 -8.454628 -40.503731 58.271374 -7.785264 -40.880024 59.235268 -6.381411 -40.369736 58.089539</TriAnatomical>
+            <ThetaR>0</ThetaR>
+            <PhiR>0.198883</PhiR>
+            <TriVertices>4018 3973 4019 4018 4019 4063</TriVertices>
+            <Vertex>4019 4018</Vertex>
+            <VertexAnatomical>-7.785264 -40.880024 59.235268 -8.454628 -40.503731 58.271374</VertexAnatomical>
+            <PosAnatomical>-8.350398 -43.340397 57.759602</PosAnatomical>
+            <FracRI>0.576035</FracRI>
+            <FracRJ>0.423965</FracRJ>
+         </VanEssenProjection>
+      </SurfaceProjectedItem>
+   </Focus>
+   <Focus Index="37">
+      <Area><![CDATA[]]></Area>
+      <ClassName><![CDATA[ESM05]]></ClassName>
+      <Comment><![CDATA[]]></Comment>
+      <Extent>0</Extent>
+      <Geography><![CDATA[]]></Geography>
+      <Name><![CDATA[SPL_7A]]></Name>
+      <RegionOfInterest><![CDATA[]]></RegionOfInterest>
+      <SearchXYZ>-19.900000 -61.699997 57.899998</SearchXYZ>
+      <Statistic><![CDATA[]]></Statistic>
+      <SumsIDNumber><![CDATA[-1]]></SumsIDNumber>
+      <SumsRepeatNumber><![CDATA[-1]]></SumsRepeatNumber>
+      <SumsParentFocusBaseID><![CDATA[-1]]></SumsParentFocusBaseID>
+      <SumsVersionNumber><![CDATA[-1]]></SumsVersionNumber>
+      <SumsMSLID><![CDATA[-1]]></SumsMSLID>
+      <AttributeID><![CDATA[-1]]></AttributeID>
+      <StudyMetaDataLinkSet>
+      </StudyMetaDataLinkSet>
+      <SurfaceProjectedItem>
+         <Structure>CORTEX_LEFT</Structure>
+         <StereotaxicXYZ>-19.900000 -61.700001 57.900002</StereotaxicXYZ>
+         <VolumeXYZ>-19.900000 -61.700001 57.900002</VolumeXYZ>
+         <ProjectionBarycentric>
+            <TriangleAreas>0.067245 0.648324 0.284431</TriangleAreas>
+            <TriangleNodes>14739 14716 11766</TriangleNodes>
+            <SignedDistanceAboveSurface>4.59163e-41</SignedDistanceAboveSurface>
+         </ProjectionBarycentric>
+      </SurfaceProjectedItem>
+   </Focus>
+   <Focus Index="38">
+      <Area><![CDATA[]]></Area>
+      <ClassName><![CDATA[ESM05]]></ClassName>
+      <Comment><![CDATA[]]></Comment>
+      <Extent>0</Extent>
+      <Geography><![CDATA[]]></Geography>
+      <Name><![CDATA[SPL_7M]]></Name>
+      <RegionOfInterest><![CDATA[]]></RegionOfInterest>
+      <SearchXYZ>-2.650000 -71.500008 36.700001</SearchXYZ>
+      <Statistic><![CDATA[]]></Statistic>
+      <SumsIDNumber><![CDATA[-1]]></SumsIDNumber>
+      <SumsRepeatNumber><![CDATA[-1]]></SumsRepeatNumber>
+      <SumsParentFocusBaseID><![CDATA[-1]]></SumsParentFocusBaseID>
+      <SumsVersionNumber><![CDATA[-1]]></SumsVersionNumber>
+      <SumsMSLID><![CDATA[-1]]></SumsMSLID>
+      <AttributeID><![CDATA[-1]]></AttributeID>
+      <StudyMetaDataLinkSet>
+      </StudyMetaDataLinkSet>
+      <SurfaceProjectedItem>
+         <Structure>CORTEX_LEFT</Structure>
+         <StereotaxicXYZ>-2.650000 -71.500000 36.700001</StereotaxicXYZ>
+         <VolumeXYZ>-2.650000 -71.500000 36.700001</VolumeXYZ>
+         <ProjectionBarycentric>
+            <TriangleAreas>0.346648 0.239143 0.414210</TriangleAreas>
+            <TriangleNodes>13078 13052 13077</TriangleNodes>
+            <SignedDistanceAboveSurface>4.59163e-41</SignedDistanceAboveSurface>
+         </ProjectionBarycentric>
+      </SurfaceProjectedItem>
+   </Focus>
+   <Focus Index="39">
+      <Area><![CDATA[]]></Area>
+      <ClassName><![CDATA[ESM05]]></ClassName>
+      <Comment><![CDATA[]]></Comment>
+      <Extent>0</Extent>
+      <Geography><![CDATA[]]></Geography>
+      <Name><![CDATA[SPL_7PC]]></Name>
+      <RegionOfInterest><![CDATA[]]></RegionOfInterest>
+      <SearchXYZ>-30.400002 -47.799995 56.499996</SearchXYZ>
+      <Statistic><![CDATA[]]></Statistic>
+      <SumsIDNumber><![CDATA[-1]]></SumsIDNumber>
+      <SumsRepeatNumber><![CDATA[-1]]></SumsRepeatNumber>
+      <SumsParentFocusBaseID><![CDATA[-1]]></SumsParentFocusBaseID>
+      <SumsVersionNumber><![CDATA[-1]]></SumsVersionNumber>
+      <SumsMSLID><![CDATA[-1]]></SumsMSLID>
+      <AttributeID><![CDATA[-1]]></AttributeID>
+      <StudyMetaDataLinkSet>
+      </StudyMetaDataLinkSet>
+      <SurfaceProjectedItem>
+         <Structure>CORTEX_LEFT</Structure>
+         <StereotaxicXYZ>-30.400000 -47.799999 56.500000</StereotaxicXYZ>
+         <VolumeXYZ>-30.400000 -47.799999 56.500000</VolumeXYZ>
+         <VanEssenProjection>
+            <DR>0.232114</DR>
+            <TriAnatomical>-30.720152 -44.621948 58.401859 -30.410425 -44.045170 56.964722 -29.430588 -43.888748 56.962212 -30.720152 -44.621948 58.401859 -31.701813 -44.702305 58.385296 -30.410425 -44.045170 56.964722</TriAnatomical>
+            <ThetaR>0</ThetaR>
+            <PhiR>0.066907</PhiR>
+            <TriVertices>14871 6692 6691 14871 14855 6692</TriVertices>
+            <Vertex>6692 14871</Vertex>
+            <VertexAnatomical>-30.410425 -44.045170 56.964722 -30.720152 -44.621948 58.401859</VertexAnatomical>
+            <PosAnatomical>-30.305799 -47.705799 56.594200</PosAnatomical>
+            <FracRI>0.620088</FracRI>
+            <FracRJ>0.379912</FracRJ>
+         </VanEssenProjection>
+      </SurfaceProjectedItem>
+   </Focus>
+   <Focus Index="40">
+      <Area><![CDATA[]]></Area>
+      <ClassName><![CDATA[ESM05]]></ClassName>
+      <Comment><![CDATA[]]></Comment>
+      <Extent>0</Extent>
+      <Geography><![CDATA[]]></Geography>
+      <Name><![CDATA[Wernicke_TE30]]></Name>
+      <RegionOfInterest><![CDATA[]]></RegionOfInterest>
+      <SearchXYZ>-64.700005 -19.200001 2.479999</SearchXYZ>
+      <Statistic><![CDATA[]]></Statistic>
+      <SumsIDNumber><![CDATA[-1]]></SumsIDNumber>
+      <SumsRepeatNumber><![CDATA[-1]]></SumsRepeatNumber>
+      <SumsParentFocusBaseID><![CDATA[-1]]></SumsParentFocusBaseID>
+      <SumsVersionNumber><![CDATA[-1]]></SumsVersionNumber>
+      <SumsMSLID><![CDATA[-1]]></SumsMSLID>
+      <AttributeID><![CDATA[-1]]></AttributeID>
+      <StudyMetaDataLinkSet>
+      </StudyMetaDataLinkSet>
+      <SurfaceProjectedItem>
+         <Structure>CORTEX_LEFT</Structure>
+         <StereotaxicXYZ>-64.699997 -19.200001 2.480000</StereotaxicXYZ>
+         <VolumeXYZ>-64.699997 -19.200001 2.480000</VolumeXYZ>
+         <ProjectionBarycentric>
+            <TriangleAreas>0.196615 0.451767 0.351618</TriangleAreas>
+            <TriangleNodes>31992 31960 31959</TriangleNodes>
+            <SignedDistanceAboveSurface>4.59163e-41</SignedDistanceAboveSurface>
+         </ProjectionBarycentric>
+      </SurfaceProjectedItem>
+   </Focus>
+</FociFile>

@@ -1,0 +1,334 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<BorderFile Version="1">
+   <MetaData>
+      <MD>
+         <Name><![CDATA[UniqueID]]></Name>
+         <Value><![CDATA[{2622e8e7-ce5b-4438-a8f0-f5b4b0d596b9}]]></Value>
+      </MD>
+   </MetaData>
+   <BorderClassColorTable>
+      <LabelTable>
+         <Label Key="0" Red="1" Green="1" Blue="1" Alpha="0"><![CDATA[???]]></Label>
+      </LabelTable>
+   </BorderClassColorTable>
+   <BorderNameColorTable>
+      <LabelTable>
+         <Label Key="0" Red="1" Green="1" Blue="1" Alpha="0"><![CDATA[???]]></Label>
+         <Label Key="1" Red="0" Green="0" Blue="0" Alpha="1"><![CDATA[Temp]]></Label>
+      </LabelTable>
+   </BorderNameColorTable>
+   <Border>
+      <Name>Temp</Name>
+      <ClassName>???</ClassName>
+      <SurfaceProjectedItem>
+         <Structure>CORTEX_LEFT</Structure>
+         <StereotaxicXYZ>31.892895 -95.851341 -11.714607</StereotaxicXYZ>
+         <VolumeXYZ>31.892895 -95.851341 -11.714607</VolumeXYZ>
+         <ProjectionBarycentric>
+            <TriangleAreas>0.074707 0.855096 0.219612</TriangleAreas>
+            <TriangleNodes>25135 25087 25086</TriangleNodes>
+            <SignedDistanceAboveSurface>0</SignedDistanceAboveSurface>
+         </ProjectionBarycentric>
+      </SurfaceProjectedItem>
+      <SurfaceProjectedItem>
+         <Structure>CORTEX_LEFT</Structure>
+         <StereotaxicXYZ>31.869320 -95.595978 -13.179442</StereotaxicXYZ>
+         <VolumeXYZ>31.869320 -95.595978 -13.179442</VolumeXYZ>
+         <ProjectionBarycentric>
+            <TriangleAreas>0.050408 0.873177 0.177231</TriangleAreas>
+            <TriangleNodes>25134 25086 25085</TriangleNodes>
+            <SignedDistanceAboveSurface>0</SignedDistanceAboveSurface>
+         </ProjectionBarycentric>
+      </SurfaceProjectedItem>
+      <SurfaceProjectedItem>
+         <Structure>CORTEX_LEFT</Structure>
+         <StereotaxicXYZ>31.248802 -95.945496 -15.815349</StereotaxicXYZ>
+         <VolumeXYZ>31.248802 -95.945496 -15.815349</VolumeXYZ>
+         <ProjectionBarycentric>
+            <TriangleAreas>0.286370 0.441370 0.272260</TriangleAreas>
+            <TriangleNodes>25085 25035 25084</TriangleNodes>
+            <SignedDistanceAboveSurface>0</SignedDistanceAboveSurface>
+         </ProjectionBarycentric>
+      </SurfaceProjectedItem>
+      <SurfaceProjectedItem>
+         <Structure>CORTEX_LEFT</Structure>
+         <StereotaxicXYZ>31.223719 -95.720993 -16.197838</StereotaxicXYZ>
+         <VolumeXYZ>31.223719 -95.720993 -16.197838</VolumeXYZ>
+         <ProjectionBarycentric>
+            <TriangleAreas>0.645745 0.304040 0.050216</TriangleAreas>
+            <TriangleNodes>25084 25035 25034</TriangleNodes>
+            <SignedDistanceAboveSurface>0</SignedDistanceAboveSurface>
+         </ProjectionBarycentric>
+      </SurfaceProjectedItem>
+      <SurfaceProjectedItem>
+         <Structure>CORTEX_LEFT</Structure>
+         <StereotaxicXYZ>30.309832 -95.273544 -19.049034</StereotaxicXYZ>
+         <VolumeXYZ>30.309832 -95.273544 -19.049034</VolumeXYZ>
+         <ProjectionBarycentric>
+            <TriangleAreas>0.584610 0.160102 0.255288</TriangleAreas>
+            <TriangleNodes>25082 25033 25032</TriangleNodes>
+            <SignedDistanceAboveSurface>0</SignedDistanceAboveSurface>
+         </ProjectionBarycentric>
+      </SurfaceProjectedItem>
+      <SurfaceProjectedItem>
+         <Structure>CORTEX_LEFT</Structure>
+         <StereotaxicXYZ>29.683447 -94.466316 -20.718645</StereotaxicXYZ>
+         <VolumeXYZ>29.683447 -94.466316 -20.718645</VolumeXYZ>
+         <ProjectionBarycentric>
+            <TriangleAreas>0.059072 0.147834 0.793093</TriangleAreas>
+            <TriangleNodes>25081 25031 25080</TriangleNodes>
+            <SignedDistanceAboveSurface>0</SignedDistanceAboveSurface>
+         </ProjectionBarycentric>
+      </SurfaceProjectedItem>
+      <SurfaceProjectedItem>
+         <Structure>CORTEX_LEFT</Structure>
+         <StereotaxicXYZ>28.640131 -93.944115 -23.522657</StereotaxicXYZ>
+         <VolumeXYZ>28.640131 -93.944115 -23.522657</VolumeXYZ>
+         <ProjectionBarycentric>
+            <TriangleAreas>0.627557 0.381921 0.009478</TriangleAreas>
+            <TriangleNodes>25078 25028 25077</TriangleNodes>
+            <SignedDistanceAboveSurface>0</SignedDistanceAboveSurface>
+         </ProjectionBarycentric>
+      </SurfaceProjectedItem>
+      <SurfaceProjectedItem>
+         <Structure>CORTEX_LEFT</Structure>
+         <StereotaxicXYZ>28.119823 -93.664635 -26.345722</StereotaxicXYZ>
+         <VolumeXYZ>28.119823 -93.664635 -26.345722</VolumeXYZ>
+         <ProjectionBarycentric>
+            <TriangleAreas>0.466818 0.134626 0.398556</TriangleAreas>
+            <TriangleNodes>25027 24976 25026</TriangleNodes>
+            <SignedDistanceAboveSurface>0</SignedDistanceAboveSurface>
+         </ProjectionBarycentric>
+      </SurfaceProjectedItem>
+      <SurfaceProjectedItem>
+         <Structure>CORTEX_LEFT</Structure>
+         <StereotaxicXYZ>28.015158 -93.623810 -28.022799</StereotaxicXYZ>
+         <VolumeXYZ>28.015158 -93.623810 -28.022799</VolumeXYZ>
+         <ProjectionBarycentric>
+            <TriangleAreas>0.128533 0.221454 0.650014</TriangleAreas>
+            <TriangleNodes>25026 24976 24975</TriangleNodes>
+            <SignedDistanceAboveSurface>0</SignedDistanceAboveSurface>
+         </ProjectionBarycentric>
+      </SurfaceProjectedItem>
+      <SurfaceProjectedItem>
+         <Structure>CORTEX_LEFT</Structure>
+         <StereotaxicXYZ>27.459276 -94.544235 -30.695127</StereotaxicXYZ>
+         <VolumeXYZ>27.459276 -94.544235 -30.695127</VolumeXYZ>
+         <ProjectionBarycentric>
+            <TriangleAreas>0.192905 0.665291 0.141804</TriangleAreas>
+            <TriangleNodes>24924 24871 24923</TriangleNodes>
+            <SignedDistanceAboveSurface>0</SignedDistanceAboveSurface>
+         </ProjectionBarycentric>
+      </SurfaceProjectedItem>
+      <SurfaceProjectedItem>
+         <Structure>CORTEX_LEFT</Structure>
+         <StereotaxicXYZ>27.524708 -94.196747 -32.801449</StereotaxicXYZ>
+         <VolumeXYZ>27.524708 -94.196747 -32.801449</VolumeXYZ>
+         <ProjectionBarycentric>
+            <TriangleAreas>0.107191 0.566679 0.326130</TriangleAreas>
+            <TriangleNodes>24870 24817 24816</TriangleNodes>
+            <SignedDistanceAboveSurface>0</SignedDistanceAboveSurface>
+         </ProjectionBarycentric>
+      </SurfaceProjectedItem>
+      <SurfaceProjectedItem>
+         <Structure>CORTEX_LEFT</Structure>
+         <StereotaxicXYZ>27.272057 -94.029633 -34.878590</StereotaxicXYZ>
+         <VolumeXYZ>27.272057 -94.029633 -34.878590</VolumeXYZ>
+         <ProjectionBarycentric>
+            <TriangleAreas>0.269973 0.331563 0.398465</TriangleAreas>
+            <TriangleNodes>24762 23169 24761</TriangleNodes>
+            <SignedDistanceAboveSurface>0</SignedDistanceAboveSurface>
+         </ProjectionBarycentric>
+      </SurfaceProjectedItem>
+      <SurfaceProjectedItem>
+         <Structure>CORTEX_LEFT</Structure>
+         <StereotaxicXYZ>26.499868 -94.093506 -36.885296</StereotaxicXYZ>
+         <VolumeXYZ>26.499868 -94.093506 -36.885296</VolumeXYZ>
+         <ProjectionBarycentric>
+            <TriangleAreas>0.066134 0.010718 1.055416</TriangleAreas>
+            <TriangleNodes>23170 23169 24410</TriangleNodes>
+            <SignedDistanceAboveSurface>0</SignedDistanceAboveSurface>
+         </ProjectionBarycentric>
+      </SurfaceProjectedItem>
+      <SurfaceProjectedItem>
+         <Structure>CORTEX_LEFT</Structure>
+         <StereotaxicXYZ>24.559717 -93.932671 -39.324013</StereotaxicXYZ>
+         <VolumeXYZ>24.559717 -93.932671 -39.324013</VolumeXYZ>
+         <ProjectionBarycentric>
+            <TriangleAreas>0.576761 0.139921 0.283318</TriangleAreas>
+            <TriangleNodes>24408 24382 24381</TriangleNodes>
+            <SignedDistanceAboveSurface>0</SignedDistanceAboveSurface>
+         </ProjectionBarycentric>
+      </SurfaceProjectedItem>
+      <SurfaceProjectedItem>
+         <Structure>CORTEX_LEFT</Structure>
+         <StereotaxicXYZ>20.885555 -93.648842 -41.247311</StereotaxicXYZ>
+         <VolumeXYZ>20.885555 -93.648842 -41.247311</VolumeXYZ>
+         <ProjectionBarycentric>
+            <TriangleAreas>0.732101 0.025541 0.242358</TriangleAreas>
+            <TriangleNodes>24379 24352 24351</TriangleNodes>
+            <SignedDistanceAboveSurface>0</SignedDistanceAboveSurface>
+         </ProjectionBarycentric>
+      </SurfaceProjectedItem>
+      <SurfaceProjectedItem>
+         <Structure>CORTEX_LEFT</Structure>
+         <StereotaxicXYZ>18.162642 -94.148415 -41.878498</StereotaxicXYZ>
+         <VolumeXYZ>18.162642 -94.148415 -41.878498</VolumeXYZ>
+         <ProjectionBarycentric>
+            <TriangleAreas>0.007406 0.576441 0.430965</TriangleAreas>
+            <TriangleNodes>24351 24322 24350</TriangleNodes>
+            <SignedDistanceAboveSurface>0</SignedDistanceAboveSurface>
+         </ProjectionBarycentric>
+      </SurfaceProjectedItem>
+      <SurfaceProjectedItem>
+         <Structure>CORTEX_LEFT</Structure>
+         <StereotaxicXYZ>14.919904 -96.700974 -42.319901</StereotaxicXYZ>
+         <VolumeXYZ>14.919904 -96.700974 -42.319901</VolumeXYZ>
+         <ProjectionBarycentric>
+            <TriangleAreas>0.132423 0.344684 0.522893</TriangleAreas>
+            <TriangleNodes>24262 24231 24230</TriangleNodes>
+            <SignedDistanceAboveSurface>0</SignedDistanceAboveSurface>
+         </ProjectionBarycentric>
+      </SurfaceProjectedItem>
+      <SurfaceProjectedItem>
+         <Structure>CORTEX_LEFT</Structure>
+         <StereotaxicXYZ>13.327818 -98.675247 -42.221489</StereotaxicXYZ>
+         <VolumeXYZ>13.327818 -98.675247 -42.221489</VolumeXYZ>
+         <ProjectionBarycentric>
+            <TriangleAreas>0.029398 0.125074 0.904324</TriangleAreas>
+            <TriangleNodes>24199 24166 24165</TriangleNodes>
+            <SignedDistanceAboveSurface>0</SignedDistanceAboveSurface>
+         </ProjectionBarycentric>
+      </SurfaceProjectedItem>
+      <SurfaceProjectedItem>
+         <Structure>CORTEX_LEFT</Structure>
+         <StereotaxicXYZ>10.493846 -100.928291 -41.490566</StereotaxicXYZ>
+         <VolumeXYZ>10.493846 -100.928291 -41.490566</VolumeXYZ>
+         <ProjectionBarycentric>
+            <TriangleAreas>0.172267 0.197137 0.630596</TriangleAreas>
+            <TriangleNodes>24096 24060 24059</TriangleNodes>
+            <SignedDistanceAboveSurface>0</SignedDistanceAboveSurface>
+         </ProjectionBarycentric>
+      </SurfaceProjectedItem>
+      <SurfaceProjectedItem>
+         <Structure>CORTEX_LEFT</Structure>
+         <StereotaxicXYZ>7.280227 -102.298088 -40.116730</StereotaxicXYZ>
+         <VolumeXYZ>7.280227 -102.298088 -40.116730</VolumeXYZ>
+         <ProjectionBarycentric>
+            <TriangleAreas>0.125771 0.692566 0.433205</TriangleAreas>
+            <TriangleNodes>23984 23944 23983</TriangleNodes>
+            <SignedDistanceAboveSurface>0</SignedDistanceAboveSurface>
+         </ProjectionBarycentric>
+      </SurfaceProjectedItem>
+      <SurfaceProjectedItem>
+         <Structure>CORTEX_LEFT</Structure>
+         <StereotaxicXYZ>2.165329 -102.759636 -36.764622</StereotaxicXYZ>
+         <VolumeXYZ>2.165329 -102.759636 -36.764622</VolumeXYZ>
+         <ProjectionBarycentric>
+            <TriangleAreas>0.183854 0.425219 0.390927</TriangleAreas>
+            <TriangleNodes>23819 23776 23775</TriangleNodes>
+            <SignedDistanceAboveSurface>0</SignedDistanceAboveSurface>
+         </ProjectionBarycentric>
+      </SurfaceProjectedItem>
+      <SurfaceProjectedItem>
+         <Structure>CORTEX_LEFT</Structure>
+         <StereotaxicXYZ>4.170356 -104.618294 -33.696655</StereotaxicXYZ>
+         <VolumeXYZ>4.170356 -104.618294 -33.696655</VolumeXYZ>
+         <ProjectionBarycentric>
+            <TriangleAreas>0.084110 0.770693 0.145196</TriangleAreas>
+            <TriangleNodes>23778 23733 23777</TriangleNodes>
+            <SignedDistanceAboveSurface>0</SignedDistanceAboveSurface>
+         </ProjectionBarycentric>
+      </SurfaceProjectedItem>
+      <SurfaceProjectedItem>
+         <Structure>CORTEX_LEFT</Structure>
+         <StereotaxicXYZ>6.406204 -106.069405 -28.809237</StereotaxicXYZ>
+         <VolumeXYZ>6.406204 -106.069405 -28.809237</VolumeXYZ>
+         <ProjectionBarycentric>
+            <TriangleAreas>0.311534 0.145070 0.543396</TriangleAreas>
+            <TriangleNodes>23690 23644 23643</TriangleNodes>
+            <SignedDistanceAboveSurface>0</SignedDistanceAboveSurface>
+         </ProjectionBarycentric>
+      </SurfaceProjectedItem>
+      <SurfaceProjectedItem>
+         <Structure>CORTEX_LEFT</Structure>
+         <StereotaxicXYZ>-2.828951 -98.241997 -21.838747</StereotaxicXYZ>
+         <VolumeXYZ>-2.828951 -98.241997 -21.838747</VolumeXYZ>
+         <ProjectionBarycentric>
+            <TriangleAreas>0.060916 0.347124 0.713793</TriangleAreas>
+            <TriangleNodes>23234 15009 23233</TriangleNodes>
+            <SignedDistanceAboveSurface>0</SignedDistanceAboveSurface>
+         </ProjectionBarycentric>
+      </SurfaceProjectedItem>
+      <SurfaceProjectedItem>
+         <Structure>CORTEX_LEFT</Structure>
+         <StereotaxicXYZ>18.371380 -107.884026 -17.793678</StereotaxicXYZ>
+         <VolumeXYZ>18.371380 -107.884026 -17.793678</VolumeXYZ>
+         <ProjectionBarycentric>
+            <TriangleAreas>0.088199 0.610880 0.300921</TriangleAreas>
+            <TriangleNodes>23697 23651 23650</TriangleNodes>
+            <SignedDistanceAboveSurface>0</SignedDistanceAboveSurface>
+         </ProjectionBarycentric>
+      </SurfaceProjectedItem>
+      <SurfaceProjectedItem>
+         <Structure>CORTEX_LEFT</Structure>
+         <StereotaxicXYZ>11.110785 -107.276085 -21.993620</StereotaxicXYZ>
+         <VolumeXYZ>11.110785 -107.276085 -21.993620</VolumeXYZ>
+         <ProjectionBarycentric>
+            <TriangleAreas>0.057023 0.815240 0.241782</TriangleAreas>
+            <TriangleNodes>23600 23551 23599</TriangleNodes>
+            <SignedDistanceAboveSurface>0</SignedDistanceAboveSurface>
+         </ProjectionBarycentric>
+      </SurfaceProjectedItem>
+      <SurfaceProjectedItem>
+         <Structure>CORTEX_LEFT</Structure>
+         <StereotaxicXYZ>22.820488 -106.457527 -16.029646</StereotaxicXYZ>
+         <VolumeXYZ>22.820488 -106.457527 -16.029646</VolumeXYZ>
+         <ProjectionBarycentric>
+            <TriangleAreas>0.319570 0.414247 0.266183</TriangleAreas>
+            <TriangleNodes>23789 23745 23744</TriangleNodes>
+            <SignedDistanceAboveSurface>0</SignedDistanceAboveSurface>
+         </ProjectionBarycentric>
+      </SurfaceProjectedItem>
+      <SurfaceProjectedItem>
+         <Structure>CORTEX_LEFT</Structure>
+         <StereotaxicXYZ>24.995747 -105.047501 -14.604487</StereotaxicXYZ>
+         <VolumeXYZ>24.995747 -105.047501 -14.604487</VolumeXYZ>
+         <ProjectionBarycentric>
+            <TriangleAreas>0.405303 0.511845 0.082852</TriangleAreas>
+            <TriangleNodes>24779 23151 23152</TriangleNodes>
+            <SignedDistanceAboveSurface>0</SignedDistanceAboveSurface>
+         </ProjectionBarycentric>
+      </SurfaceProjectedItem>
+      <SurfaceProjectedItem>
+         <Structure>CORTEX_LEFT</Structure>
+         <StereotaxicXYZ>29.180927 -100.597244 -11.647635</StereotaxicXYZ>
+         <VolumeXYZ>29.180927 -100.597244 -11.647635</VolumeXYZ>
+         <ProjectionBarycentric>
+            <TriangleAreas>0.178741 0.186858 0.634401</TriangleAreas>
+            <TriangleNodes>24990 24939 24938</TriangleNodes>
+            <SignedDistanceAboveSurface>0</SignedDistanceAboveSurface>
+         </ProjectionBarycentric>
+      </SurfaceProjectedItem>
+      <SurfaceProjectedItem>
+         <Structure>CORTEX_LEFT</Structure>
+         <StereotaxicXYZ>-4.193388 -97.953194 9.754824</StereotaxicXYZ>
+         <VolumeXYZ>-4.193388 -97.953194 9.754824</VolumeXYZ>
+         <ProjectionBarycentric>
+            <TriangleAreas>1.000000 0.000000 0.000000</TriangleAreas>
+            <TriangleNodes>24989 24989 24989</TriangleNodes>
+            <SignedDistanceAboveSurface>0</SignedDistanceAboveSurface>
+         </ProjectionBarycentric>
+      </SurfaceProjectedItem>
+      <SurfaceProjectedItem>
+         <Structure>CORTEX_LEFT</Structure>
+         <StereotaxicXYZ>-3.402067 -96.715271 10.620591</StereotaxicXYZ>
+         <VolumeXYZ>-3.402067 -96.715271 10.620591</VolumeXYZ>
+         <ProjectionBarycentric>
+            <TriangleAreas>1.000000 0.000000 0.000000</TriangleAreas>
+            <TriangleNodes>25039 25039 25039</TriangleNodes>
+            <SignedDistanceAboveSurface>0</SignedDistanceAboveSurface>
+         </ProjectionBarycentric>
+      </SurfaceProjectedItem>
+   </Border>
+</BorderFile>
